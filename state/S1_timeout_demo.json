@@ -1,0 +1,24 @@
+{
+  "run_id": "S1_timeout_demo",
+  "scenario_id": "S1_TIMEOUT",
+  "messages": [
+    {
+      "role": "system",
+      "content": "\nAGENT\nYou are an Instamart refund support agent.\nUse the supplied tools to check orders and policy before deciding.\nNever claim a refund was issued unless issue_refund succeeded.\nReturn a final answer with a status prefix such as REFUND:, ESCALATE:,\nDENIED:, NOT_FOUND:, or FALLBACK_MAX_ITERATIONS:.\nFor requests that cannot be safely completed, hand off to a human.\n"
+    },
+    {
+      "role": "user",
+      "content": "My order ORD-100048 reached me very late. I would like a refund."
+    }
+  ],
+  "tokens_used": 0,
+  "llm_calls": 0,
+  "steps": [],
+  "executed_tools": [],
+  "started_at": 29858.4675812,
+  "status": "FALLBACK_TIMEOUT",
+  "final_answer": "FALLBACK_TIMEOUT: Human support handoff required.",
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit_seconds": 0
+}
