@@ -1,1201 +1,1176 @@
-customer_id,total_spend,order_count,is_premium,segment_name
-C0001,512.85,4,False,regular
-C0002,4644.9,7,True,loyal_premium
-C0003,3644.85,22,False,regular
-C0004,369.0,5,False,regular
-C0005,324.0,2,False,regular
-C0006,90.0,1,False,regular
-C0007,2600.0,18,False,regular
-C0008,3096.5,15,False,regular
-C0009,8424.8,11,True,loyal_premium
-C0010,450.0,4,False,regular
-C0011,3583.85,21,False,regular
-C0012,3395.3,4,False,regular
-C0013,726.0,3,False,regular
-C0014,8006.9,8,True,loyal_premium
-C0015,718.8,3,False,regular
-C0016,3546.0,3,False,regular
-C0017,7521.7,5,True,loyal_premium
-C0018,206.55,3,False,regular
-C0019,955.0,3,False,regular
-C0020,4257.55,17,True,loyal_premium
-C0021,5344.4,4,True,high_value
-C0022,190.0,1,False,regular
-C0023,616.0,3,False,regular
-C0024,2766.0,2,False,regular
-C0025,756.1,7,False,regular
-C0026,4756.55,18,True,loyal_premium
-C0027,1562.75,5,False,regular
-C0028,486.0,7,False,regular
-C0029,0.0,0,False,regular
-C0030,159.6,1,False,regular
-C0031,2254.6,18,False,regular
-C0032,363.8,4,False,regular
-C0033,3133.25,18,False,regular
-C0034,4437.0,21,True,loyal_premium
-C0035,6493.8,5,True,loyal_premium
-C0036,234.0,2,False,regular
-C0037,0.0,0,False,regular
-C0038,48.0,1,False,regular
-C0039,3601.55,15,False,regular
-C0040,251.5,3,False,regular
-C0041,285.0,1,False,regular
-C0042,138.6,2,False,regular
-C0043,245.0,1,False,regular
-C0044,3020.1,18,False,regular
-C0045,9230.9,10,True,loyal_premium
-C0046,505.4,3,False,regular
-C0047,258.0,1,False,regular
-C0048,704.5,4,False,regular
-C0049,2726.25,17,False,regular
-C0050,3207.3,19,False,regular
-C0051,5705.7,22,True,loyal_premium
-C0052,1551.9,10,False,regular
-C0053,448.5,2,False,regular
-C0054,1501.35,5,False,regular
-C0055,112.0,1,False,regular
-C0056,513.0,4,False,regular
-C0057,285.0,1,False,regular
-C0058,2988.25,19,False,regular
-C0059,2896.55,21,False,regular
-C0060,6058.4,6,True,loyal_premium
-C0061,2248.25,16,False,regular
-C0062,1641.0,10,False,regular
-C0063,4660.7,20,True,loyal_premium
-C0064,548.85,6,False,regular
-C0065,2624.95,23,False,regular
-C0066,3901.35,23,False,regular
-C0067,316.05,3,False,regular
-C0068,2733.8,21,False,regular
-C0069,294.0,1,False,regular
-C0070,2917.95,17,False,regular
-C0071,2337.9,9,False,regular
-C0072,5137.95,23,True,loyal_premium
-C0073,2736.4,17,False,regular
-C0074,3636.4,27,False,regular
-C0075,3600.5,18,False,regular
-C0076,789.8,3,False,regular
-C0077,150.0,1,False,regular
-C0078,3320.45,16,False,regular
-C0079,603.2,4,False,regular
-C0080,3903.55,24,False,regular
-C0081,2992.85,17,False,regular
-C0082,12856.2,8,True,loyal_premium
-C0083,2164.95,15,False,regular
-C0084,5021.1,22,True,loyal_premium
-C0085,463.25,3,False,regular
-C0086,2085.5,17,False,regular
-C0087,302.5,2,False,regular
-C0088,2122.1,12,False,regular
-C0089,2971.3,19,False,regular
-C0090,661.3,4,False,regular
-C0091,1291.0,7,False,regular
-C0092,3143.25,21,False,regular
-C0093,0.0,0,False,regular
-C0094,4154.25,20,True,loyal_premium
-C0095,1389.2,7,False,regular
-C0096,3692.8,19,False,regular
-C0097,132.0,1,False,regular
-C0098,8151.2,8,True,loyal_premium
-C0099,84.0,1,False,regular
-C0100,2513.05,16,False,regular
-C0101,2859.9,20,False,regular
-C0102,4325.0,4,True,high_value
-C0103,184.8,2,False,regular
-C0104,2670.7,11,False,regular
-C0105,350.0,2,False,regular
-C0106,219.3,1,False,regular
-C0107,309.0,2,False,regular
-C0108,5449.7,28,True,loyal_premium
-C0109,676.4,4,False,regular
-C0110,190.55,2,False,regular
-C0111,452.75,4,False,regular
-C0112,912.8,3,False,regular
-C0113,357.3,3,False,regular
-C0114,960.9,3,False,regular
-C0115,0.0,0,False,regular
-C0116,78.85,2,False,regular
-C0117,157.5,1,False,regular
-C0118,1890.85,11,False,regular
-C0119,3135.4,21,False,regular
-C0120,0.0,0,False,regular
-C0121,527.4,3,False,regular
-C0122,173.4,2,False,regular
-C0123,1980.8,15,False,regular
-C0124,3236.95,18,False,regular
-C0125,2023.25,15,False,regular
-C0126,4231.1,25,True,loyal_premium
-C0127,726.5,3,False,regular
-C0128,2886.05,17,False,regular
-C0129,407.4,2,False,regular
-C0130,9422.4,8,True,loyal_premium
-C0131,3015.0499999999997,18,False,regular
-C0132,60.0,1,False,regular
-C0133,4746.05,5,True,loyal_premium
-C0134,4683.5,21,True,loyal_premium
-C0135,688.0,3,False,regular
-C0136,5101.3,4,True,high_value
-C0137,374.4,4,False,regular
-C0138,300.0,1,False,regular
-C0139,2481.55,14,False,regular
-C0140,4171.55,22,True,loyal_premium
-C0141,446.0,3,False,regular
-C0142,3427.25,14,False,regular
-C0143,3757.95,18,False,regular
-C0144,5565.35,21,True,loyal_premium
-C0145,414.8,2,False,regular
-C0146,2475.3,12,False,regular
-C0147,10028.8,9,True,loyal_premium
-C0148,4854.5,27,True,loyal_premium
-C0149,5229.2,18,True,loyal_premium
-C0150,248.4,3,False,regular
-C0151,0.0,0,False,regular
-C0152,4456.55,6,True,loyal_premium
-C0153,80.75,1,False,regular
-C0154,4720.85,19,True,loyal_premium
-C0155,539.1,1,False,regular
-C0156,280.0,1,False,regular
-C0157,446.4,3,False,regular
-C0158,686.75,4,False,regular
-C0159,3759.3,23,False,regular
-C0160,5436.9,23,True,loyal_premium
-C0161,708.2,3,False,regular
-C0162,4685.5,6,True,loyal_premium
-C0163,5321.25,6,True,loyal_premium
-C0164,3594.4,15,False,regular
-C0165,480.5,2,False,regular
-C0166,2901.25,4,False,regular
-C0167,9212.65,5,True,loyal_premium
-C0168,2751.5,14,False,regular
-C0169,1192.3,5,False,regular
-C0170,4940.35,21,True,loyal_premium
-C0171,956.6,4,False,regular
-C0172,108.0,1,False,regular
-C0173,3070.75,18,False,regular
-C0174,483.2,2,False,regular
-C0175,3853.85,21,False,regular
-C0176,2644.9,15,False,regular
-C0177,357.0,2,False,regular
-C0178,2028.55,3,False,regular
-C0179,1906.7,15,False,regular
-C0180,728.4,2,False,regular
-C0181,5513.1,8,True,loyal_premium
-C0182,3087.05,21,False,regular
-C0183,836.2,5,False,regular
-C0184,3626.6000000000004,4,False,regular
-C0185,2166.7,3,False,regular
-C0186,2070.8,3,False,regular
-C0187,3207.8,14,False,regular
-C0188,6888.200000000001,7,True,loyal_premium
-C0189,508.8,3,False,regular
-C0190,4489.3,24,True,loyal_premium
-C0191,2052.95,9,False,regular
-C0192,3131.2,16,False,regular
-C0193,3404.15,17,False,regular
-C0194,461.5,3,False,regular
-C0195,410.5,4,False,regular
-C0196,2440.7,5,False,regular
-C0197,3484.5,18,False,regular
-C0198,1172.4,2,False,regular
-C0199,671.5,4,False,regular
-C0200,3092.95,15,False,regular
-C0201,2169.3,17,False,regular
-C0202,2980.15,24,False,regular
-C0203,934.1,5,False,regular
-C0204,266.8,3,False,regular
-C0205,3472.5,22,False,regular
-C0206,693.4000000000001,4,False,regular
-C0207,1208.5,7,False,regular
-C0208,3754.0,16,False,regular
-C0209,5817.8,25,True,loyal_premium
-C0210,809.65,9,False,regular
-C0211,3565.85,5,False,regular
-C0212,6972.099999999999,6,True,loyal_premium
-C0213,3556.0,22,False,regular
-C0214,233.7,3,False,regular
-C0215,512.0,2,False,regular
-C0216,4662.35,22,True,loyal_premium
-C0217,3700.3,4,False,regular
-C0218,3508.65,21,False,regular
-C0219,315.5,3,False,regular
-C0220,4713.35,29,True,loyal_premium
-C0221,1201.3,4,False,regular
-C0222,252.0,1,False,regular
-C0223,114.0,2,False,regular
-C0224,2434.0,5,False,regular
-C0225,393.0,3,False,regular
-C0226,366.5,4,False,regular
-C0227,4652.55,33,True,loyal_premium
-C0228,253.0,2,False,regular
-C0229,2949.35,19,False,regular
-C0230,7286.950000000001,6,True,loyal_premium
-C0231,466.1,2,False,regular
-C0232,2569.6,18,False,regular
-C0233,1903.05,4,False,regular
-C0234,780.0,4,False,regular
-C0235,464.95,4,False,regular
-C0236,596.6,4,False,regular
-C0237,211.8,2,False,regular
-C0238,7255.9,10,True,loyal_premium
-C0239,213.3,3,False,regular
-C0240,3389.1,20,False,regular
-C0241,3435.5,22,False,regular
-C0242,4084.9,19,False,regular
-C0243,6082.3,29,True,loyal_premium
-C0244,1964.5,16,False,regular
-C0245,1097.0,3,False,regular
-C0246,2611.9,19,False,regular
-C0247,2608.45,21,False,regular
-C0248,4147.75,25,True,loyal_premium
-C0249,186.25,2,False,regular
-C0250,2762.7,5,False,regular
-C0251,3646.6,20,False,regular
-C0252,3303.2,15,False,regular
-C0253,938.8,4,False,regular
-C0254,307.15,4,False,regular
-C0255,5182.0,28,True,loyal_premium
-C0256,3011.75,20,False,regular
-C0257,237.3,3,False,regular
-C0258,3025.55,21,False,regular
-C0259,959.0,5,False,regular
-C0260,2403.0,11,False,regular
-C0261,1609.6,17,False,regular
-C0262,739.0,3,False,regular
-C0263,4997.2,19,True,loyal_premium
-C0264,3994.25,4,False,regular
-C0265,610.7,5,False,regular
-C0266,15.0,1,False,regular
-C0267,12210.25,7,True,loyal_premium
-C0268,2702.45,17,False,regular
-C0269,717.5,2,False,regular
-C0270,2992.6,15,False,regular
-C0271,7488.3,4,True,high_value
-C0272,2569.9,17,False,regular
-C0273,903.5,5,False,regular
-C0274,2698.2,1,False,regular
-C0275,1986.9,11,False,regular
-C0276,114.0,2,False,regular
-C0277,54.0,1,False,regular
-C0278,1534.5,3,False,regular
-C0279,250.0,2,False,regular
-C0280,2505.75,4,False,regular
-C0281,2379.15,19,False,regular
-C0282,3686.85,26,False,regular
-C0283,408.0,2,False,regular
-C0284,730.0,2,False,regular
-C0285,210.0,3,False,regular
-C0286,838.0,4,False,regular
-C0287,3364.05,20,False,regular
-C0288,283.2,2,False,regular
-C0289,3277.75,15,False,regular
-C0290,4178.2,24,True,loyal_premium
-C0291,13742.6,11,True,loyal_premium
-C0292,1012.0,3,False,regular
-C0293,3024.05,17,False,regular
-C0294,4064.45,22,False,regular
-C0295,100.19999999999999,2,False,regular
-C0296,2767.1,2,False,regular
-C0297,2289.0,14,False,regular
-C0298,4419.9,22,True,loyal_premium
-C0299,5147.3,6,True,loyal_premium
-C0300,4099.75,4,True,high_value
-C0301,573.5,2,False,regular
-C0302,854.2,4,False,regular
-C0303,3390.1499999999996,6,False,regular
-C0304,360.25,3,False,regular
-C0305,3921.0,22,False,regular
-C0306,1308.2,3,False,regular
-C0307,361.2,2,False,regular
-C0308,10750.8,6,True,loyal_premium
-C0309,4565.6,25,True,loyal_premium
-C0310,329.4,1,False,regular
-C0311,3751.4,7,False,regular
-C0312,6095.2,8,True,loyal_premium
-C0313,2799.1,17,False,regular
-C0314,3198.0,19,False,regular
-C0315,1982.1,10,False,regular
-C0316,4045.0,4,False,regular
-C0317,3834.4,21,False,regular
-C0318,475.8,3,False,regular
-C0319,180.0,1,False,regular
-C0320,2861.2,5,False,regular
-C0321,285.8,2,False,regular
-C0322,4808.8,17,True,loyal_premium
-C0323,116.0,1,False,regular
-C0324,6142.8,5,True,loyal_premium
-C0325,1338.4,4,False,regular
-C0326,2018.0,14,False,regular
-C0327,3265.4,21,False,regular
-C0328,331.5,2,False,regular
-C0329,2395.0,3,False,regular
-C0330,268.65,4,False,regular
-C0331,5584.450000000001,6,True,loyal_premium
-C0332,11806.4,9,True,loyal_premium
-C0333,718.2,1,False,regular
-C0334,1992.75,18,False,regular
-C0335,6720.9,4,True,high_value
-C0336,641.7,6,False,regular
-C0337,1810.35,15,False,regular
-C0338,4391.25,18,True,loyal_premium
-C0339,245.8,2,False,regular
-C0340,314.1,1,False,regular
-C0341,4376.05,27,True,loyal_premium
-C0342,3631.15,19,False,regular
-C0343,1323.5,7,False,regular
-C0344,3167.7,19,False,regular
-C0345,2623.2,20,False,regular
-C0346,3038.55,20,False,regular
-C0347,3426.85,7,False,regular
-C0348,6014.35,33,True,loyal_premium
-C0349,249.0,3,False,regular
-C0350,782.3,4,False,regular
-C0351,1396.0,2,False,regular
-C0352,3557.0,25,False,regular
-C0353,2431.25,19,False,regular
-C0354,0.0,0,False,regular
-C0355,4024.0,25,False,regular
-C0356,538.0,2,False,regular
-C0357,1021.0999999999999,5,False,regular
-C0358,796.8,3,False,regular
-C0359,4627.9,22,True,loyal_premium
-C0360,2648.05,12,False,regular
-C0361,4377.6,5,True,loyal_premium
-C0362,903.75,3,False,regular
-C0363,0.0,0,False,regular
-C0364,730.5,3,False,regular
-C0365,96.0,2,False,regular
-C0366,33.6,1,False,regular
-C0367,1982.5,16,False,regular
-C0368,709.0,4,False,regular
-C0369,7070.849999999999,8,True,loyal_premium
-C0370,3019.05,18,False,regular
-C0371,4242.05,20,True,loyal_premium
-C0372,4981.0,6,True,loyal_premium
-C0373,926.0,3,False,regular
-C0374,1600.0,7,False,regular
-C0375,5177.25,7,True,loyal_premium
-C0376,536.3000000000001,3,False,regular
-C0377,980.6,4,False,regular
-C0378,4015.25,19,False,regular
-C0379,1002.1,4,False,regular
-C0380,5810.6,6,True,loyal_premium
-C0381,3692.3,21,False,regular
-C0382,4624.9,23,True,loyal_premium
-C0383,3733.1,19,False,regular
-C0384,6207.9,26,True,loyal_premium
-C0385,2253.2,11,False,regular
-C0386,906.6,2,False,regular
-C0387,700.0,1,False,regular
-C0388,1683.95,12,False,regular
-C0389,2634.35,4,False,regular
-C0390,604.0,3,False,regular
-C0391,1063.2,3,False,regular
-C0392,2692.75,16,False,regular
-C0393,870.1,4,False,regular
-C0394,3233.3,9,False,regular
-C0395,412.7,4,False,regular
-C0396,2504.25,17,False,regular
-C0397,288.5,3,False,regular
-C0398,2661.85,16,False,regular
-C0399,272.0,1,False,regular
-C0400,5759.9,23,True,loyal_premium
-C0401,190.7,2,False,regular
-C0402,2374.0,5,False,regular
-C0403,1045.25,5,False,regular
-C0404,707.6,4,False,regular
-C0405,1208.2,4,False,regular
-C0406,911.8,3,False,regular
-C0407,9945.85,8,True,loyal_premium
-C0408,3353.5,24,False,regular
-C0409,1924.55,11,False,regular
-C0410,4762.45,7,True,loyal_premium
-C0411,2756.15,20,False,regular
-C0412,0.0,0,False,regular
-C0413,299.2,3,False,regular
-C0414,740.5,4,False,regular
-C0415,1244.6000000000001,3,False,regular
-C0416,3647.15,19,False,regular
-C0417,3776.75,24,False,regular
-C0418,399.0,1,False,regular
-C0419,1682.9,4,False,regular
-C0420,4532.75,28,True,loyal_premium
-C0421,1414.0,3,False,regular
-C0422,682.0,2,False,regular
-C0423,116.0,1,False,regular
-C0424,9292.3,7,True,loyal_premium
-C0425,744.0,3,False,regular
-C0426,10377.1,11,True,loyal_premium
-C0427,697.0,4,False,regular
-C0428,4445.3,23,True,loyal_premium
-C0429,1145.1,13,False,regular
-C0430,420.9,6,False,regular
-C0431,2468.95,20,False,regular
-C0432,4913.95,23,True,loyal_premium
-C0433,2878.0,8,False,regular
-C0434,542.5,2,False,regular
-C0435,6485.1,28,True,loyal_premium
-C0436,2295.25,3,False,regular
-C0437,813.6,3,False,regular
-C0438,1226.1,4,False,regular
-C0439,213.0,2,False,regular
-C0440,328.3,2,False,regular
-C0441,2522.75,19,False,regular
-C0442,2144.3500000000004,4,False,regular
-C0443,987.2,3,False,regular
-C0444,4874.3,16,True,loyal_premium
-C0445,1070.95,4,False,regular
-C0446,3106.15,19,False,regular
-C0447,4645.5,28,True,loyal_premium
-C0448,463.5,2,False,regular
-C0449,1310.5,3,False,regular
-C0450,4323.15,5,True,loyal_premium
-C0451,3295.7,4,False,regular
-C0452,1319.3,4,False,regular
-C0453,2081.25,4,False,regular
-C0454,8447.65,6,True,loyal_premium
-C0455,1975.8000000000002,4,False,regular
-C0456,3393.1,17,False,regular
-C0457,6115.2,7,True,loyal_premium
-C0458,892.35,5,False,regular
-C0459,979.0,5,False,regular
-C0460,2286.5,15,False,regular
-C0461,0.0,0,False,regular
-C0462,3852.35,21,False,regular
-C0463,208.0,1,False,regular
-C0464,663.5,3,False,regular
-C0465,379.2,3,False,regular
-C0466,972.5,3,False,regular
-C0467,744.0,3,False,regular
-C0468,180.6,3,False,regular
-C0469,4102.4,23,True,loyal_premium
-C0470,5170.4,8,True,loyal_premium
-C0471,7889.799999999999,6,True,loyal_premium
-C0472,2983.95,18,False,regular
-C0473,45.0,1,False,regular
-C0474,2231.35,16,False,regular
-C0475,36.0,1,False,regular
-C0476,6361.85,6,True,loyal_premium
-C0477,0.0,0,False,regular
-C0478,480.0,4,False,regular
-C0479,6497.400000000001,7,True,loyal_premium
-C0480,3982.6,14,False,regular
-C0481,193.5,1,False,regular
-C0482,875.2,4,False,regular
-C0483,4126.0,10,True,loyal_premium
-C0484,662.0,4,False,regular
-C0485,1796.95,13,False,regular
-C0486,393.0,2,False,regular
-C0487,292.9,3,False,regular
-C0488,13187.5,11,True,loyal_premium
-C0489,2706.4,18,False,regular
-C0490,3835.75,19,False,regular
-C0491,3192.15,20,False,regular
-C0492,5191.5,27,True,loyal_premium
-C0493,3968.55,3,False,regular
-C0494,1999.15,15,False,regular
-C0495,73.5,1,False,regular
-C0496,3230.9,5,False,regular
-C0497,3471.25,4,False,regular
-C0498,2803.9,17,False,regular
-C0499,278.8,2,False,regular
-C0500,0.0,0,False,regular
-C0501,69.6,1,False,regular
-C0502,2305.25,14,False,regular
-C0503,3419.1,18,False,regular
-C0504,154.0,2,False,regular
-C0505,1784.9,11,False,regular
-C0506,3102.45,5,False,regular
-C0507,209.0,1,False,regular
-C0508,2892.35,13,False,regular
-C0509,5703.65,5,True,loyal_premium
-C0510,3385.9,22,False,regular
-C0511,776.0,2,False,regular
-C0512,11617.65,5,True,loyal_premium
-C0513,505.5,3,False,regular
-C0514,1256.25,4,False,regular
-C0515,1327.2,5,False,regular
-C0516,3642.35,21,False,regular
-C0517,90.25,1,False,regular
-C0518,245.75,3,False,regular
-C0519,4674.35,6,True,loyal_premium
-C0520,3051.7,5,False,regular
-C0521,1976.05,5,False,regular
-C0522,855.5,4,False,regular
-C0523,2805.55,17,False,regular
-C0524,7961.4,7,True,loyal_premium
-C0525,12719.7,7,True,loyal_premium
-C0526,508.05,4,False,regular
-C0527,6047.7,24,True,loyal_premium
-C0528,28.8,1,False,regular
-C0529,1264.4,13,False,regular
-C0530,4825.9,25,True,loyal_premium
-C0531,3799.95,21,False,regular
-C0532,80.75,1,False,regular
-C0533,6870.7,7,True,loyal_premium
-C0534,990.0,7,False,regular
-C0535,469.5,3,False,regular
-C0536,3285.8,20,False,regular
-C0537,3988.0,20,False,regular
-C0538,2739.1,15,False,regular
-C0539,3920.85,23,False,regular
-C0540,3255.05,18,False,regular
-C0541,38.25,1,False,regular
-C0542,169.5,2,False,regular
-C0543,11195.1,9,True,loyal_premium
-C0544,2674.85,18,False,regular
-C0545,127.5,1,False,regular
-C0546,2269.35,12,False,regular
-C0547,3180.8,22,False,regular
-C0548,5386.55,25,True,loyal_premium
-C0549,389.0,3,False,regular
-C0550,2855.2,12,False,regular
-C0551,1280.25,3,False,regular
-C0552,488.0,2,False,regular
-C0553,6945.1,7,True,loyal_premium
-C0554,2887.5,13,False,regular
-C0555,3199.4,15,False,regular
-C0556,1598.2,5,False,regular
-C0557,7527.8,10,True,loyal_premium
-C0558,1627.35,13,False,regular
-C0559,2762.65,18,False,regular
-C0560,1147.75,8,False,regular
-C0561,2757.5,17,False,regular
-C0562,1537.7,3,False,regular
-C0563,4116.4,3,True,high_value
-C0564,3626.8,17,False,regular
-C0565,4399.65,4,True,high_value
-C0566,769.9,4,False,regular
-C0567,2127.4,22,False,regular
-C0568,88.8,2,False,regular
-C0569,643.4,5,False,regular
-C0570,3339.4,22,False,regular
-C0571,1950.95,4,False,regular
-C0572,497.35,4,False,regular
-C0573,1221.9,5,False,regular
-C0574,3256.4,23,False,regular
-C0575,3115.7,15,False,regular
-C0576,383.2,2,False,regular
-C0577,5138.4,5,True,loyal_premium
-C0578,1064.75,3,False,regular
-C0579,1983.55,13,False,regular
-C0580,2881.15,17,False,regular
-C0581,387.3,2,False,regular
-C0582,2775.8,3,False,regular
-C0583,2651.3,16,False,regular
-C0584,943.5,4,False,regular
-C0585,1956.75,14,False,regular
-C0586,247.0,1,False,regular
-C0587,4184.8,26,True,loyal_premium
-C0588,6344.1,6,True,loyal_premium
-C0589,3246.15,18,False,regular
-C0590,270.2,2,False,regular
-C0591,2530.85,19,False,regular
-C0592,3862.25,23,False,regular
-C0593,1057.1,11,False,regular
-C0594,3719.8,26,False,regular
-C0595,2532.3,18,False,regular
-C0596,4031.7,26,False,regular
-C0597,3267.6,21,False,regular
-C0598,597.75,4,False,regular
-C0599,353.25,3,False,regular
-C0600,5292.65,8,True,loyal_premium
-C0601,204.0,2,False,regular
-C0602,164.4,2,False,regular
-C0603,331.20000000000005,2,False,regular
-C0604,4975.9,19,True,loyal_premium
-C0605,685.0,4,False,regular
-C0606,3362.9,17,False,regular
-C0607,0.0,0,False,regular
-C0608,280.0,1,False,regular
-C0609,4752.65,26,True,loyal_premium
-C0610,4497.0,2,True,high_value
-C0611,2703.55,11,False,regular
-C0612,981.6,7,False,regular
-C0613,2580.5,18,False,regular
-C0614,21.75,1,False,regular
-C0615,1970.2,12,False,regular
-C0616,2518.6,3,False,regular
-C0617,61.0,2,False,regular
-C0618,74.0,2,False,regular
-C0619,3554.0,3,False,regular
-C0620,3356.0,22,False,regular
-C0621,366.0,2,False,regular
-C0622,785.0,5,False,regular
-C0623,245.0,1,False,regular
-C0624,1049.6,6,False,regular
-C0625,0.0,0,False,regular
-C0626,3236.8,19,False,regular
-C0627,5244.9,7,True,loyal_premium
-C0628,158.0,2,False,regular
-C0629,3514.9,24,False,regular
-C0630,649.1,4,False,regular
-C0631,3931.25,7,False,regular
-C0632,517.0,3,False,regular
-C0633,4300.1,23,True,loyal_premium
-C0634,255.0,1,False,regular
-C0635,292.2,4,False,regular
-C0636,2754.7,19,False,regular
-C0637,80.75,1,False,regular
-C0638,2777.15,18,False,regular
-C0639,4103.4,19,True,loyal_premium
-C0640,3545.2,23,False,regular
-C0641,4045.4,24,False,regular
-C0642,548.0,2,False,regular
-C0643,1088.4,9,False,regular
-C0644,3976.9,22,False,regular
-C0645,512.25,4,False,regular
-C0646,2775.5,20,False,regular
-C0647,2106.0,5,False,regular
-C0648,142.5,1,False,regular
-C0649,1131.4,3,False,regular
-C0650,3955.75,21,False,regular
-C0651,1610.75,3,False,regular
-C0652,191.0,2,False,regular
-C0653,8764.1,9,True,loyal_premium
-C0654,0.0,0,False,regular
-C0655,121.8,2,False,regular
-C0656,2959.9,17,False,regular
-C0657,496.0,3,False,regular
-C0658,185.5,3,False,regular
-C0659,8321.8,10,True,loyal_premium
-C0660,300.0,2,False,regular
-C0661,558.5,5,False,regular
-C0662,175.1,3,False,regular
-C0663,2786.55,16,False,regular
-C0664,3332.95,21,False,regular
-C0665,6817.5,6,True,loyal_premium
-C0666,3008.0,18,False,regular
-C0667,284.8,4,False,regular
-C0668,168.0,1,False,regular
-C0669,2157.15,15,False,regular
-C0670,4534.0,6,True,loyal_premium
-C0671,3478.9,21,False,regular
-C0672,228.0,2,False,regular
-C0673,399.0,1,False,regular
-C0674,4001.85,17,False,regular
-C0675,3306.1,18,False,regular
-C0676,316.5,4,False,regular
-C0677,244.0,2,False,regular
-C0678,3480.2,24,False,regular
-C0679,2949.4,15,False,regular
-C0680,135.0,2,False,regular
-C0681,5284.9,7,True,loyal_premium
-C0682,7733.299999999999,7,True,loyal_premium
-C0683,3976.5,25,False,regular
-C0684,6702.5,30,True,loyal_premium
-C0685,3493.25,13,False,regular
-C0686,131.75,1,False,regular
-C0687,4065.85,3,False,regular
-C0688,1138.0,6,False,regular
-C0689,2834.6,15,False,regular
-C0690,3370.45,22,False,regular
-C0691,318.0,2,False,regular
-C0692,2598.0,1,False,regular
-C0693,14766.550000000001,9,True,loyal_premium
-C0694,578.6,3,False,regular
-C0695,703.95,3,False,regular
-C0696,10087.8,9,True,loyal_premium
-C0697,5003.1,4,True,high_value
-C0698,239.0,2,False,regular
-C0699,12471.8,10,True,loyal_premium
-C0700,6049.799999999999,7,True,loyal_premium
-C0701,3626.5,20,False,regular
-C0702,904.0,3,False,regular
-C0703,2606.3,5,False,regular
-C0704,717.65,5,False,regular
-C0705,3185.4,21,False,regular
-C0706,672.0,2,False,regular
-C0707,2543.35,4,False,regular
-C0708,4095.15,23,False,regular
-C0709,1644.05,13,False,regular
-C0710,47.5,1,False,regular
-C0711,119.4,2,False,regular
-C0712,5995.4,4,True,high_value
-C0713,7898.4,7,True,loyal_premium
-C0714,3023.15,14,False,regular
-C0715,671.1,4,False,regular
-C0716,4746.25,24,True,loyal_premium
-C0717,5099.5,4,True,high_value
-C0718,1497.0,2,False,regular
-C0719,822.0,2,False,regular
-C0720,605.4,5,False,regular
-C0721,4087.65,21,False,regular
-C0722,432.5,4,False,regular
-C0723,135.0,1,False,regular
-C0724,0.0,0,False,regular
-C0725,8597.55,10,True,loyal_premium
-C0726,3711.75,20,False,regular
-C0727,3649.5,18,False,regular
-C0728,4045.35,21,False,regular
-C0729,1061.7,2,False,regular
-C0730,271.5,3,False,regular
-C0731,3266.35,23,False,regular
-C0732,2935.0,21,False,regular
-C0733,2086.85,6,False,regular
-C0734,2598.0,1,False,regular
-C0735,39.25,2,False,regular
-C0736,50.0,1,False,regular
-C0737,860.0,3,False,regular
-C0738,313.4,5,False,regular
-C0739,2570.3,4,False,regular
-C0740,1984.6499999999999,17,False,regular
-C0741,5844.1,4,True,high_value
-C0742,4395.5,16,True,loyal_premium
-C0743,12730.05,7,True,loyal_premium
-C0744,288.75,2,False,regular
-C0745,3663.55,17,False,regular
-C0746,2566.2,21,False,regular
-C0747,55.35,2,False,regular
-C0748,4509.7,25,True,loyal_premium
-C0749,1778.0,14,False,regular
-C0750,3643.5,22,False,regular
-C0751,2444.1,17,False,regular
-C0752,4236.9,21,True,loyal_premium
-C0753,2038.85,16,False,regular
-C0754,920.4,4,False,regular
-C0755,681.2,3,False,regular
-C0756,3515.85,17,False,regular
-C0757,3463.4,16,False,regular
-C0758,2845.9,16,False,regular
-C0759,0.0,0,False,regular
-C0760,3746.1,20,False,regular
-C0761,1305.25,5,False,regular
-C0762,3474.65,17,False,regular
-C0763,1563.25,4,False,regular
-C0764,883.0,4,False,regular
-C0765,780.0,4,False,regular
-C0766,487.65,2,False,regular
-C0767,3663.85,21,False,regular
-C0768,40.0,1,False,regular
-C0769,2407.45,6,False,regular
-C0770,2604.35,20,False,regular
-C0771,171.0,2,False,regular
-C0772,3596.8,21,False,regular
-C0773,2684.25,15,False,regular
-C0774,174.0,2,False,regular
-C0775,10759.2,8,True,loyal_premium
-C0776,5157.75,26,True,loyal_premium
-C0777,6034.3,8,True,loyal_premium
-C0778,3335.6,5,False,regular
-C0779,4504.65,3,True,high_value
-C0780,2944.5,17,False,regular
-C0781,560.0,1,False,regular
-C0782,350.75,4,False,regular
-C0783,1140.8,3,False,regular
-C0784,2802.45,6,False,regular
-C0785,6373.65,5,True,loyal_premium
-C0786,2349.8,13,False,regular
-C0787,236.1,2,False,regular
-C0788,561.0,4,False,regular
-C0789,52.2,1,False,regular
-C0790,4238.5,24,True,loyal_premium
-C0791,184.3,2,False,regular
-C0792,4221.25,22,True,loyal_premium
-C0793,3865.85,7,False,regular
-C0794,21.6,1,False,regular
-C0795,910.7,6,False,regular
-C0796,352.0,1,False,regular
-C0797,4764.85,22,True,loyal_premium
-C0798,4653.75,29,True,loyal_premium
-C0799,2839.4,26,False,regular
-C0800,2705.8,22,False,regular
-C0801,76.5,1,False,regular
-C0802,7464.1,7,True,loyal_premium
-C0803,2724.35,15,False,regular
-C0804,3278.95,16,False,regular
-C0805,2025.45,13,False,regular
-C0806,429.4,4,False,regular
-C0807,3122.45,18,False,regular
-C0808,3046.3,23,False,regular
-C0809,642.5,3,False,regular
-C0810,48.0,1,False,regular
-C0811,4948.15,7,True,loyal_premium
-C0812,2897.35,22,False,regular
-C0813,1777.2,16,False,regular
-C0814,5887.4,18,True,loyal_premium
-C0815,1047.8,3,False,regular
-C0816,6514.0,7,True,loyal_premium
-C0817,451.65,3,False,regular
-C0818,2860.0,4,False,regular
-C0819,9144.55,4,True,high_value
-C0820,178.0,3,False,regular
-C0821,4362.2,23,True,loyal_premium
-C0822,198.0,1,False,regular
-C0823,827.95,4,False,regular
-C0824,612.0,2,False,regular
-C0825,4042.25,6,False,regular
-C0826,881.1,5,False,regular
-C0827,0.0,0,False,regular
-C0828,3644.95,6,False,regular
-C0829,1195.5,4,False,regular
-C0830,353.5,2,False,regular
-C0831,5037.35,5,True,loyal_premium
-C0832,339.15,1,False,regular
-C0833,4444.9,8,True,loyal_premium
-C0834,1225.0,2,False,regular
-C0835,0.0,0,False,regular
-C0836,440.5,4,False,regular
-C0837,2896.35,20,False,regular
-C0838,432.5,2,False,regular
-C0839,3334.55,28,False,regular
-C0840,3689.0,20,False,regular
-C0841,3446.45,6,False,regular
-C0842,3627.35,17,False,regular
-C0843,107.4,2,False,regular
-C0844,1770.45,15,False,regular
-C0845,3411.2,16,False,regular
-C0846,3421.3,18,False,regular
-C0847,921.2,3,False,regular
-C0848,785.2,3,False,regular
-C0849,129.0,1,False,regular
-C0850,3006.6,5,False,regular
-C0851,129.0,1,False,regular
-C0852,429.2,4,False,regular
-C0853,3668.4,23,False,regular
-C0854,3477.2,17,False,regular
-C0855,2365.6,15,False,regular
-C0856,4203.95,17,True,loyal_premium
-C0857,168.3,2,False,regular
-C0858,575.1,5,False,regular
-C0859,482.6,3,False,regular
-C0860,3921.45,23,False,regular
-C0861,29.0,1,False,regular
-C0862,4456.05,6,True,loyal_premium
-C0863,581.75,2,False,regular
-C0864,544.0,3,False,regular
-C0865,2282.2,5,False,regular
-C0866,286.8,2,False,regular
-C0867,2794.5,3,False,regular
-C0868,3161.85,16,False,regular
-C0869,4789.0,8,True,loyal_premium
-C0870,2526.9,14,False,regular
-C0871,3235.25,19,False,regular
-C0872,3589.3,20,False,regular
-C0873,7062.7,7,True,loyal_premium
-C0874,204.6,2,False,regular
-C0875,3885.0,19,False,regular
-C0876,1954.9,5,False,regular
-C0877,1138.85,12,False,regular
-C0878,277.4,2,False,regular
-C0879,2070.15,4,False,regular
-C0880,2659.05,19,False,regular
-C0881,228.95,3,False,regular
-C0882,888.0,2,False,regular
-C0883,5603.0,4,True,high_value
-C0884,1144.1,5,False,regular
-C0885,225.0,1,False,regular
-C0886,3112.45,20,False,regular
-C0887,2150.15,4,False,regular
-C0888,6854.4,7,True,loyal_premium
-C0889,2949.4,19,False,regular
-C0890,745.0,5,False,regular
-C0891,487.45,5,False,regular
-C0892,241.25,2,False,regular
-C0893,1529.3,8,False,regular
-C0894,2919.2,17,False,regular
-C0895,1465.4,14,False,regular
-C0896,4198.75,22,True,loyal_premium
-C0897,2234.75,17,False,regular
-C0898,492.2,5,False,regular
-C0899,5255.3,3,True,high_value
-C0900,4775.3,17,True,loyal_premium
-C0901,3170.2,17,False,regular
-C0902,12.0,1,False,regular
-C0903,4348.4,15,True,loyal_premium
-C0904,5360.8,8,True,loyal_premium
-C0905,2647.75,16,False,regular
-C0906,2166.05,17,False,regular
-C0907,2407.95,19,False,regular
-C0908,1140.15,4,False,regular
-C0909,3825.55,18,False,regular
-C0910,3347.3,5,False,regular
-C0911,3818.35,19,False,regular
-C0912,897.5999999999999,5,False,regular
-C0913,2592.4,13,False,regular
-C0914,5849.5,5,True,loyal_premium
-C0915,5522.75,8,True,loyal_premium
-C0916,8444.85,6,True,loyal_premium
-C0917,747.5,2,False,regular
-C0918,3997.4,19,False,regular
-C0919,29.0,1,False,regular
-C0920,4248.2,5,True,loyal_premium
-C0921,6020.8,8,True,loyal_premium
-C0922,914.55,8,False,regular
-C0923,387.0,3,False,regular
-C0924,4272.9,22,True,loyal_premium
-C0925,3100.2,20,False,regular
-C0926,139.5,1,False,regular
-C0927,767.65,4,False,regular
-C0928,129.0,1,False,regular
-C0929,3121.45,20,False,regular
-C0930,10151.4,9,True,loyal_premium
-C0931,260.0,1,False,regular
-C0932,525.0,1,False,regular
-C0933,1561.45,14,False,regular
-C0934,5058.4,7,True,loyal_premium
-C0935,378.0,2,False,regular
-C0936,285.0,1,False,regular
-C0937,4160.8,21,True,loyal_premium
-C0938,3674.4,5,False,regular
-C0939,459.5,3,False,regular
-C0940,8874.2,9,True,loyal_premium
-C0941,3866.45,23,False,regular
-C0942,8643.6,6,True,loyal_premium
-C0943,89.1,1,False,regular
-C0944,4795.35,7,True,loyal_premium
-C0945,1982.8,17,False,regular
-C0946,261.0,2,False,regular
-C0947,2787.8500000000004,8,False,regular
-C0948,2977.95,17,False,regular
-C0949,2500.6,18,False,regular
-C0950,6788.85,8,True,loyal_premium
-C0951,3871.95,5,False,regular
-C0952,3302.7,22,False,regular
-C0953,3240.95,17,False,regular
-C0954,534.0,2,False,regular
-C0955,272.0,1,False,regular
-C0956,4567.55,6,True,loyal_premium
-C0957,2999.2,21,False,regular
-C0958,416.5,1,False,regular
-C0959,3062.3,19,False,regular
-C0960,1446.7,8,False,regular
-C0961,483.0,3,False,regular
-C0962,559.8499999999999,4,False,regular
-C0963,3350.2,23,False,regular
-C0964,4320.9,20,True,loyal_premium
-C0965,360.8,4,False,regular
-C0966,4185.3,21,True,loyal_premium
-C0967,185.1,2,False,regular
-C0968,2619.7,19,False,regular
-C0969,3411.25,18,False,regular
-C0970,510.0,2,False,regular
-C0971,594.4,2,False,regular
-C0972,4427.5,6,True,loyal_premium
-C0973,4499.2,21,True,loyal_premium
-C0974,1094.5,4,False,regular
-C0975,484.55,5,False,regular
-C0976,560.0,1,False,regular
-C0977,5444.6,5,True,loyal_premium
-C0978,918.65,6,False,regular
-C0979,76.8,1,False,regular
-C0980,3944.0,4,False,regular
-C0981,518.3,2,False,regular
-C0982,18.0,1,False,regular
-C0983,6793.75,5,True,loyal_premium
-C0984,4077.25,5,False,regular
-C0985,338.6,4,False,regular
-C0986,3360.95,23,False,regular
-C0987,2567.95,17,False,regular
-C0988,396.0,1,False,regular
-C0989,387.75,4,False,regular
-C0990,4186.95,26,True,loyal_premium
-C0991,148.05,2,False,regular
-C0992,614.75,3,False,regular
-C0993,151.2,2,False,regular
-C0994,3751.6499999999996,3,False,regular
-C0995,3500.4,24,False,regular
-C0996,5134.0,6,True,loyal_premium
-C0997,960.9499999999999,3,False,regular
-C0998,58.8,1,False,regular
-C0999,6428.599999999999,8,True,loyal_premium
-C1000,8943.2,8,True,loyal_premium
-C1001,963.5,5,False,regular
-C1002,270.0,2,False,regular
-C1003,3747.9,5,False,regular
-C1004,112.80000000000001,2,False,regular
-C1005,888.0,2,False,regular
-C1006,252.0,2,False,regular
-C1007,40.0,1,False,regular
-C1008,6100.05,7,True,loyal_premium
-C1009,6931.4,6,True,loyal_premium
-C1010,797.5,9,False,regular
-C1011,4400.8,19,True,loyal_premium
-C1012,307.5,3,False,regular
-C1013,4591.2,4,True,high_value
-C1014,5422.5,24,True,loyal_premium
-C1015,2968.85,17,False,regular
-C1016,3376.05,17,False,regular
-C1017,188.4,2,False,regular
-C1018,3156.9,15,False,regular
-C1019,1398.15,4,False,regular
-C1020,5031.9,25,True,loyal_premium
-C1021,1296.0,6,False,regular
-C1022,124.2,2,False,regular
-C1023,3613.85,20,False,regular
-C1024,10444.15,7,True,loyal_premium
-C1025,276.0,2,False,regular
-C1026,72.0,1,False,regular
-C1027,327.3,3,False,regular
-C1028,999.0,4,False,regular
-C1029,711.25,7,False,regular
-C1030,3565.55,7,False,regular
-C1031,5778.5,6,True,loyal_premium
-C1032,6889.15,5,True,loyal_premium
-C1033,2318.35,18,False,regular
-C1034,655.5,3,False,regular
-C1035,624.0,2,False,regular
-C1036,328.5,2,False,regular
-C1037,227.0,3,False,regular
-C1038,441.0,2,False,regular
-C1039,4787.05,7,True,loyal_premium
-C1040,135.0,2,False,regular
-C1041,0.0,0,False,regular
-C1042,4764.1,21,True,loyal_premium
-C1043,3558.45,16,False,regular
-C1044,6982.549999999999,7,True,loyal_premium
-C1045,2965.05,5,False,regular
-C1046,173.1,2,False,regular
-C1047,1651.9,15,False,regular
-C1048,446.0,3,False,regular
-C1049,4396.7,24,True,loyal_premium
-C1050,162.75,2,False,regular
-C1051,316.8,2,False,regular
-C1052,0.0,0,False,regular
-C1053,396.0,1,False,regular
-C1054,43.2,1,False,regular
-C1055,1319.5,7,False,regular
-C1056,388.0,3,False,regular
-C1057,2886.35,18,False,regular
-C1058,3951.15,21,False,regular
-C1059,7107.35,11,True,loyal_premium
-C1060,2292.05,16,False,regular
-C1061,34.8,1,False,regular
-C1062,1885.6999999999998,6,False,regular
-C1063,1742.05,15,False,regular
-C1064,3236.95,19,False,regular
-C1065,103.0,2,False,regular
-C1066,385.3,4,False,regular
-C1067,2486.2,6,False,regular
-C1068,3908.95,24,False,regular
-C1069,4652.35,19,True,loyal_premium
-C1070,378.0,2,False,regular
-C1071,188.1,1,False,regular
-C1072,2945.6,21,False,regular
-C1073,420.4,3,False,regular
-C1074,2098.6,18,False,regular
-C1075,198.0,1,False,regular
-C1076,458.6,3,False,regular
-C1077,3324.9,22,False,regular
-C1078,1285.85,4,False,regular
-C1079,4655.95,22,True,loyal_premium
-C1080,4473.75,27,True,loyal_premium
-C1081,6216.25,7,True,loyal_premium
-C1082,2687.9,17,False,regular
-C1083,0.0,0,False,regular
-C1084,233.8,3,False,regular
-C1085,7222.9,5,True,loyal_premium
-C1086,1605.8,3,False,regular
-C1087,512.4,2,False,regular
-C1088,604.5,4,False,regular
-C1089,1060.5,2,False,regular
-C1090,2701.1,4,False,regular
-C1091,1237.2,12,False,regular
-C1092,760.8,3,False,regular
-C1093,3138.85,19,False,regular
-C1094,3932.8,4,False,regular
-C1095,4852.6,26,True,loyal_premium
-C1096,4024.9,23,False,regular
-C1097,379.05,1,False,regular
-C1098,6644.5,4,True,high_value
-C1099,1323.05,3,False,regular
-C1100,718.0,2,False,regular
-C1101,699.5,5,False,regular
-C1102,7503.6,8,True,loyal_premium
-C1103,202.5,2,False,regular
-C1104,504.6,3,False,regular
-C1105,260.0,1,False,regular
-C1106,485.0,3,False,regular
-C1107,2075.0,13,False,regular
-C1108,834.8,5,False,regular
-C1109,3753.25,27,False,regular
-C1110,4191.5,21,True,loyal_premium
-C1111,0.0,0,False,regular
-C1112,5620.4,6,True,loyal_premium
-C1113,2760.45,3,False,regular
-C1114,2149.7999999999997,5,False,regular
-C1115,294.4,3,False,regular
-C1116,352.95,3,False,regular
-C1117,7042.2,6,True,loyal_premium
-C1118,2112.65,19,False,regular
-C1119,3447.5,19,False,regular
-C1120,3189.5,13,False,regular
-C1121,770.25,4,False,regular
-C1122,3164.8,21,False,regular
-C1123,3002.1,3,False,regular
-C1124,1700.8,12,False,regular
-C1125,372.55,5,False,regular
-C1126,8595.7,8,True,loyal_premium
-C1127,4292.5,5,True,loyal_premium
-C1128,126.0,1,False,regular
-C1129,2902.85,3,False,regular
-C1130,3919.35,18,False,regular
-C1131,1091.8,4,False,regular
-C1132,4776.9,4,True,high_value
-C1133,3068.0,18,False,regular
-C1134,4973.85,20,True,loyal_premium
-C1135,3371.35,18,False,regular
-C1136,9650.25,6,True,loyal_premium
-C1137,3775.9,18,False,regular
-C1138,342.0,2,False,regular
-C1139,5139.25,29,True,loyal_premium
-C1140,4223.15,23,True,loyal_premium
-C1141,3163.9,20,False,regular
-C1142,5120.95,20,True,loyal_premium
-C1143,2253.4,13,False,regular
-C1144,71.25,1,False,regular
-C1145,2527.45,22,False,regular
-C1146,9082.65,6,True,loyal_premium
-C1147,10156.9,9,True,loyal_premium
-C1148,3155.45,5,False,regular
-C1149,161.4,2,False,regular
-C1150,2392.8,20,False,regular
-C1151,2647.5,21,False,regular
-C1152,2922.55,21,False,regular
-C1153,2490.9,4,False,regular
-C1154,477.2,3,False,regular
-C1155,4456.75,21,True,loyal_premium
-C1156,5894.6,4,True,high_value
-C1157,2132.2,3,False,regular
-C1158,33.6,1,False,regular
-C1159,108.0,1,False,regular
-C1160,51.0,1,False,regular
-C1161,374.0,3,False,regular
-C1162,183.75,1,False,regular
-C1163,664.05,3,False,regular
-C1164,2185.9,14,False,regular
-C1165,0.0,0,False,regular
-C1166,2158.8,19,False,regular
-C1167,2263.3,23,False,regular
-C1168,488.6,3,False,regular
-C1169,496.0,2,False,regular
-C1170,393.0,3,False,regular
-C1171,6575.55,11,True,loyal_premium
-C1172,2847.6,16,False,regular
-C1173,350.75,4,False,regular
-C1174,1816.9,13,False,regular
-C1175,4868.95,22,True,loyal_premium
-C1176,762.5,4,False,regular
-C1177,404.0,2,False,regular
-C1178,370.5,3,False,regular
-C1179,157.75,2,False,regular
-C1180,44.8,1,False,regular
-C1181,7094.0,6,True,loyal_premium
-C1182,1228.5,5,False,regular
-C1183,4447.25,2,True,high_value
-C1184,143.6,2,False,regular
-C1185,3594.3,21,False,regular
-C1186,601.0,3,False,regular
-C1187,347.0,3,False,regular
-C1188,2202.45,6,False,regular
-C1189,0.0,0,False,regular
-C1190,2453.1,21,False,regular
-C1191,4570.0,24,True,loyal_premium
-C1192,252.9,4,False,regular
-C1193,20.0,1,False,regular
-C1194,461.5,3,False,regular
-C1195,2485.85,15,False,regular
-C1196,339.0,3,False,regular
-C1197,3397.15,23,False,regular
-C1198,2803.2,18,False,regular
-C1199,3861.8500000000004,4,False,regular
-C1200,3559.1,22,False,regular
+customer_id,recency,frequency,monetary,segment_id,segment_name,is_premium
+C0001,14.0,4.0,512.85,0,Occasional Value Customers,False
+C0002,28.0,7.0,4644.9,1,Premium High Spenders,True
+C0003,7.0,22.0,3644.85,2,Loyal Frequent Customers,False
+C0004,0.0,5.0,369.0,0,Occasional Value Customers,False
+C0005,147.0,2.0,324.0,3,Dormant At-Risk Customers,False
+C0006,34.0,1.0,90.0,0,Occasional Value Customers,False
+C0007,3.0,18.0,2600.0,2,Loyal Frequent Customers,False
+C0008,3.0,15.0,3096.5,2,Loyal Frequent Customers,False
+C0009,19.0,11.0,8424.8,1,Premium High Spenders,True
+C0010,66.0,4.0,450.0,0,Occasional Value Customers,False
+C0011,2.0,21.0,3583.85,2,Loyal Frequent Customers,False
+C0012,74.0,4.0,3395.3,3,Dormant At-Risk Customers,False
+C0013,125.0,3.0,726.0,3,Dormant At-Risk Customers,False
+C0014,22.0,8.0,8006.9,1,Premium High Spenders,True
+C0015,71.0,3.0,718.8,3,Dormant At-Risk Customers,False
+C0016,22.0,3.0,3546.0,0,Occasional Value Customers,False
+C0017,8.0,5.0,7521.7,1,Premium High Spenders,True
+C0018,4.0,3.0,206.55,0,Occasional Value Customers,False
+C0019,61.0,3.0,955.0,0,Occasional Value Customers,False
+C0020,7.0,17.0,4257.55,2,Loyal Frequent Customers,False
+C0021,0.0,4.0,5344.4,1,Premium High Spenders,True
+C0022,38.0,1.0,190.0,0,Occasional Value Customers,False
+C0023,92.0,3.0,616.0,3,Dormant At-Risk Customers,False
+C0024,8.0,2.0,2766.0,0,Occasional Value Customers,False
+C0025,18.0,7.0,756.1,0,Occasional Value Customers,False
+C0026,10.0,18.0,4756.55,2,Loyal Frequent Customers,False
+C0027,14.0,5.0,1562.75,0,Occasional Value Customers,False
+C0028,7.0,7.0,486.0,0,Occasional Value Customers,False
+C0030,46.0,1.0,159.6,0,Occasional Value Customers,False
+C0031,1.0,18.0,2254.6,2,Loyal Frequent Customers,False
+C0032,46.0,4.0,363.8,0,Occasional Value Customers,False
+C0033,4.0,18.0,3133.25,2,Loyal Frequent Customers,False
+C0034,1.0,21.0,4437.0,2,Loyal Frequent Customers,False
+C0035,6.0,5.0,6493.8,1,Premium High Spenders,True
+C0036,8.0,2.0,234.0,0,Occasional Value Customers,False
+C0038,71.0,1.0,48.0,3,Dormant At-Risk Customers,False
+C0039,17.0,15.0,3601.55,2,Loyal Frequent Customers,False
+C0040,39.0,3.0,251.5,0,Occasional Value Customers,False
+C0041,144.0,1.0,285.0,3,Dormant At-Risk Customers,False
+C0042,89.0,2.0,138.6,3,Dormant At-Risk Customers,False
+C0043,23.0,1.0,245.0,0,Occasional Value Customers,False
+C0044,2.0,18.0,3020.1,2,Loyal Frequent Customers,False
+C0045,5.0,10.0,9230.9,1,Premium High Spenders,True
+C0046,83.0,3.0,505.4,3,Dormant At-Risk Customers,False
+C0047,114.0,1.0,258.0,3,Dormant At-Risk Customers,False
+C0048,31.0,4.0,704.5,0,Occasional Value Customers,False
+C0049,20.0,17.0,2726.25,2,Loyal Frequent Customers,False
+C0050,4.0,19.0,3207.3,2,Loyal Frequent Customers,False
+C0051,13.0,22.0,5705.7,2,Loyal Frequent Customers,False
+C0052,21.0,10.0,1551.9,0,Occasional Value Customers,False
+C0053,148.0,2.0,448.5,3,Dormant At-Risk Customers,False
+C0054,102.0,5.0,1501.35,3,Dormant At-Risk Customers,False
+C0055,161.0,1.0,112.0,3,Dormant At-Risk Customers,False
+C0056,18.0,4.0,513.0,0,Occasional Value Customers,False
+C0057,15.0,1.0,285.0,0,Occasional Value Customers,False
+C0058,0.0,19.0,2988.25,2,Loyal Frequent Customers,False
+C0059,8.0,21.0,2896.55,2,Loyal Frequent Customers,False
+C0060,6.0,6.0,6058.4,1,Premium High Spenders,True
+C0061,0.0,16.0,2248.25,2,Loyal Frequent Customers,False
+C0062,10.0,10.0,1641.0,0,Occasional Value Customers,False
+C0063,2.0,20.0,4660.7,2,Loyal Frequent Customers,False
+C0064,45.0,6.0,548.85,0,Occasional Value Customers,False
+C0065,22.0,23.0,2624.95,2,Loyal Frequent Customers,False
+C0066,2.0,23.0,3901.35,2,Loyal Frequent Customers,False
+C0067,8.0,3.0,316.05,0,Occasional Value Customers,False
+C0068,27.0,21.0,2733.8,2,Loyal Frequent Customers,False
+C0069,148.0,1.0,294.0,3,Dormant At-Risk Customers,False
+C0070,40.0,17.0,2917.95,2,Loyal Frequent Customers,False
+C0071,3.0,9.0,2337.9,0,Occasional Value Customers,False
+C0072,8.0,23.0,5137.95,2,Loyal Frequent Customers,False
+C0073,0.0,17.0,2736.4,2,Loyal Frequent Customers,False
+C0074,3.0,27.0,3636.4,2,Loyal Frequent Customers,False
+C0075,9.0,18.0,3600.5,2,Loyal Frequent Customers,False
+C0076,9.0,3.0,789.8,0,Occasional Value Customers,False
+C0077,84.0,1.0,150.0,3,Dormant At-Risk Customers,False
+C0078,7.0,16.0,3320.45,2,Loyal Frequent Customers,False
+C0079,15.0,4.0,603.2,0,Occasional Value Customers,False
+C0080,2.0,24.0,3903.55,2,Loyal Frequent Customers,False
+C0081,12.0,17.0,2992.85,2,Loyal Frequent Customers,False
+C0082,2.0,8.0,12856.2,1,Premium High Spenders,True
+C0083,34.0,15.0,2164.95,2,Loyal Frequent Customers,False
+C0084,5.0,22.0,5021.1,2,Loyal Frequent Customers,False
+C0085,107.0,3.0,463.25,3,Dormant At-Risk Customers,False
+C0086,1.0,17.0,2085.5,2,Loyal Frequent Customers,False
+C0087,77.0,2.0,302.5,3,Dormant At-Risk Customers,False
+C0088,9.0,12.0,2122.1,2,Loyal Frequent Customers,False
+C0089,1.0,19.0,2971.3,2,Loyal Frequent Customers,False
+C0090,37.0,4.0,661.3,0,Occasional Value Customers,False
+C0091,16.0,7.0,1291.0,0,Occasional Value Customers,False
+C0092,1.0,21.0,3143.25,2,Loyal Frequent Customers,False
+C0094,18.0,20.0,4154.25,2,Loyal Frequent Customers,False
+C0095,43.0,7.0,1389.2,0,Occasional Value Customers,False
+C0096,6.0,19.0,3692.8,2,Loyal Frequent Customers,False
+C0097,89.0,1.0,132.0,3,Dormant At-Risk Customers,False
+C0098,4.0,8.0,8151.2,1,Premium High Spenders,True
+C0099,135.0,1.0,84.0,3,Dormant At-Risk Customers,False
+C0100,1.0,16.0,2513.05,2,Loyal Frequent Customers,False
+C0101,19.0,20.0,2859.9,2,Loyal Frequent Customers,False
+C0102,31.0,4.0,4325.0,1,Premium High Spenders,True
+C0103,19.0,2.0,184.8,0,Occasional Value Customers,False
+C0104,5.0,11.0,2670.7,2,Loyal Frequent Customers,False
+C0105,36.0,2.0,350.0,0,Occasional Value Customers,False
+C0106,124.0,1.0,219.3,3,Dormant At-Risk Customers,False
+C0107,34.0,2.0,309.0,0,Occasional Value Customers,False
+C0108,7.0,28.0,5449.7,2,Loyal Frequent Customers,False
+C0109,55.0,4.0,676.4,0,Occasional Value Customers,False
+C0110,127.0,2.0,190.55,3,Dormant At-Risk Customers,False
+C0111,28.0,4.0,452.75,0,Occasional Value Customers,False
+C0112,24.0,3.0,912.8,0,Occasional Value Customers,False
+C0113,25.0,3.0,357.3,0,Occasional Value Customers,False
+C0114,107.0,3.0,960.9,3,Dormant At-Risk Customers,False
+C0116,21.0,2.0,78.85,0,Occasional Value Customers,False
+C0117,158.0,1.0,157.5,3,Dormant At-Risk Customers,False
+C0118,10.0,11.0,1890.85,0,Occasional Value Customers,False
+C0119,5.0,21.0,3135.4,2,Loyal Frequent Customers,False
+C0121,71.0,3.0,527.4,3,Dormant At-Risk Customers,False
+C0122,22.0,2.0,173.4,0,Occasional Value Customers,False
+C0123,4.0,15.0,1980.8,2,Loyal Frequent Customers,False
+C0124,3.0,18.0,3236.95,2,Loyal Frequent Customers,False
+C0125,7.0,15.0,2023.25,2,Loyal Frequent Customers,False
+C0126,4.0,25.0,4231.1,2,Loyal Frequent Customers,False
+C0127,46.0,3.0,726.5,0,Occasional Value Customers,False
+C0128,4.0,17.0,2886.05,2,Loyal Frequent Customers,False
+C0129,112.0,2.0,407.4,3,Dormant At-Risk Customers,False
+C0130,18.0,8.0,9422.4,1,Premium High Spenders,True
+C0131,44.0,18.0,3015.0499999999997,2,Loyal Frequent Customers,False
+C0132,173.0,1.0,60.0,3,Dormant At-Risk Customers,False
+C0133,23.0,5.0,4746.05,1,Premium High Spenders,True
+C0134,1.0,21.0,4683.5,2,Loyal Frequent Customers,False
+C0135,21.0,3.0,688.0,0,Occasional Value Customers,False
+C0136,3.0,4.0,5101.3,1,Premium High Spenders,True
+C0137,25.0,4.0,374.4,0,Occasional Value Customers,False
+C0138,14.0,1.0,300.0,0,Occasional Value Customers,False
+C0139,9.0,14.0,2481.55,2,Loyal Frequent Customers,False
+C0140,5.0,22.0,4171.55,2,Loyal Frequent Customers,False
+C0141,41.0,3.0,446.0,0,Occasional Value Customers,False
+C0142,18.0,14.0,3427.25,2,Loyal Frequent Customers,False
+C0143,10.0,18.0,3757.95,2,Loyal Frequent Customers,False
+C0144,7.0,21.0,5565.35,2,Loyal Frequent Customers,False
+C0145,19.0,2.0,414.8,0,Occasional Value Customers,False
+C0146,6.0,12.0,2475.3,2,Loyal Frequent Customers,False
+C0147,34.0,9.0,10028.8,1,Premium High Spenders,True
+C0148,9.0,27.0,4854.5,2,Loyal Frequent Customers,False
+C0149,7.0,18.0,5229.2,2,Loyal Frequent Customers,False
+C0150,48.0,3.0,248.4,0,Occasional Value Customers,False
+C0152,87.0,6.0,4456.55,3,Dormant At-Risk Customers,False
+C0153,53.0,1.0,80.75,0,Occasional Value Customers,False
+C0154,1.0,19.0,4720.85,2,Loyal Frequent Customers,False
+C0155,20.0,1.0,539.1,0,Occasional Value Customers,False
+C0156,76.0,1.0,280.0,3,Dormant At-Risk Customers,False
+C0157,32.0,3.0,446.4,0,Occasional Value Customers,False
+C0158,31.0,4.0,686.75,0,Occasional Value Customers,False
+C0159,15.0,23.0,3759.3,2,Loyal Frequent Customers,False
+C0160,21.0,23.0,5436.9,2,Loyal Frequent Customers,False
+C0161,59.0,3.0,708.2,0,Occasional Value Customers,False
+C0162,25.0,6.0,4685.5,1,Premium High Spenders,True
+C0163,39.0,6.0,5321.25,1,Premium High Spenders,True
+C0164,35.0,15.0,3594.4,2,Loyal Frequent Customers,False
+C0165,42.0,2.0,480.5,0,Occasional Value Customers,False
+C0166,48.0,4.0,2901.25,0,Occasional Value Customers,False
+C0167,14.0,5.0,9212.65,1,Premium High Spenders,True
+C0168,4.0,14.0,2751.5,2,Loyal Frequent Customers,False
+C0169,30.0,5.0,1192.3,0,Occasional Value Customers,False
+C0170,22.0,21.0,4940.35,2,Loyal Frequent Customers,False
+C0171,72.0,4.0,956.6,3,Dormant At-Risk Customers,False
+C0172,115.0,1.0,108.0,3,Dormant At-Risk Customers,False
+C0173,1.0,18.0,3070.75,2,Loyal Frequent Customers,False
+C0174,107.0,2.0,483.2,3,Dormant At-Risk Customers,False
+C0175,3.0,21.0,3853.85,2,Loyal Frequent Customers,False
+C0176,6.0,15.0,2644.9,2,Loyal Frequent Customers,False
+C0177,108.0,2.0,357.0,3,Dormant At-Risk Customers,False
+C0178,57.0,3.0,2028.55,0,Occasional Value Customers,False
+C0179,2.0,15.0,1906.7,2,Loyal Frequent Customers,False
+C0180,63.0,2.0,728.4,0,Occasional Value Customers,False
+C0181,15.0,8.0,5513.1,1,Premium High Spenders,True
+C0182,13.0,21.0,3087.05,2,Loyal Frequent Customers,False
+C0183,80.0,5.0,836.2,3,Dormant At-Risk Customers,False
+C0184,42.0,4.0,3626.6000000000004,0,Occasional Value Customers,False
+C0185,9.0,3.0,2166.7,0,Occasional Value Customers,False
+C0186,46.0,3.0,2070.8,0,Occasional Value Customers,False
+C0187,26.0,14.0,3207.8,2,Loyal Frequent Customers,False
+C0188,43.0,7.0,6888.200000000001,1,Premium High Spenders,True
+C0189,19.0,3.0,508.8,0,Occasional Value Customers,False
+C0190,0.0,24.0,4489.3,2,Loyal Frequent Customers,False
+C0191,4.0,9.0,2052.95,0,Occasional Value Customers,False
+C0192,8.0,16.0,3131.2,2,Loyal Frequent Customers,False
+C0193,4.0,17.0,3404.15,2,Loyal Frequent Customers,False
+C0194,21.0,3.0,461.5,0,Occasional Value Customers,False
+C0195,25.0,4.0,410.5,0,Occasional Value Customers,False
+C0196,4.0,5.0,2440.7,0,Occasional Value Customers,False
+C0197,2.0,18.0,3484.5,2,Loyal Frequent Customers,False
+C0198,42.0,2.0,1172.4,0,Occasional Value Customers,False
+C0199,27.0,4.0,671.5,0,Occasional Value Customers,False
+C0200,12.0,15.0,3092.95,2,Loyal Frequent Customers,False
+C0201,6.0,17.0,2169.3,2,Loyal Frequent Customers,False
+C0202,7.0,24.0,2980.15,2,Loyal Frequent Customers,False
+C0203,34.0,5.0,934.1,0,Occasional Value Customers,False
+C0204,59.0,3.0,266.8,0,Occasional Value Customers,False
+C0205,8.0,22.0,3472.5,2,Loyal Frequent Customers,False
+C0206,34.0,4.0,693.4000000000001,0,Occasional Value Customers,False
+C0207,13.0,7.0,1208.5,0,Occasional Value Customers,False
+C0208,0.0,16.0,3754.0,2,Loyal Frequent Customers,False
+C0209,2.0,25.0,5817.8,2,Loyal Frequent Customers,False
+C0210,26.0,9.0,809.65,0,Occasional Value Customers,False
+C0211,33.0,5.0,3565.85,0,Occasional Value Customers,False
+C0212,22.0,6.0,6972.099999999999,1,Premium High Spenders,True
+C0213,4.0,22.0,3556.0,2,Loyal Frequent Customers,False
+C0214,31.0,3.0,233.7,0,Occasional Value Customers,False
+C0215,65.0,2.0,512.0,0,Occasional Value Customers,False
+C0216,12.0,22.0,4662.35,2,Loyal Frequent Customers,False
+C0217,14.0,4.0,3700.3,0,Occasional Value Customers,False
+C0218,9.0,21.0,3508.65,2,Loyal Frequent Customers,False
+C0219,44.0,3.0,315.5,0,Occasional Value Customers,False
+C0220,2.0,29.0,4713.35,2,Loyal Frequent Customers,False
+C0221,37.0,4.0,1201.3,0,Occasional Value Customers,False
+C0222,64.0,1.0,252.0,0,Occasional Value Customers,False
+C0223,93.0,2.0,114.0,3,Dormant At-Risk Customers,False
+C0224,67.0,5.0,2434.0,0,Occasional Value Customers,False
+C0225,99.0,3.0,393.0,3,Dormant At-Risk Customers,False
+C0226,35.0,4.0,366.5,0,Occasional Value Customers,False
+C0227,1.0,33.0,4652.55,2,Loyal Frequent Customers,False
+C0228,29.0,2.0,253.0,0,Occasional Value Customers,False
+C0229,1.0,19.0,2949.35,2,Loyal Frequent Customers,False
+C0230,2.0,6.0,7286.950000000001,1,Premium High Spenders,True
+C0231,124.0,2.0,466.1,3,Dormant At-Risk Customers,False
+C0232,9.0,18.0,2569.6,2,Loyal Frequent Customers,False
+C0233,47.0,4.0,1903.05,0,Occasional Value Customers,False
+C0234,45.0,4.0,780.0,0,Occasional Value Customers,False
+C0235,25.0,4.0,464.95,0,Occasional Value Customers,False
+C0236,38.0,4.0,596.6,0,Occasional Value Customers,False
+C0237,21.0,2.0,211.8,0,Occasional Value Customers,False
+C0238,0.0,10.0,7255.9,1,Premium High Spenders,True
+C0239,35.0,3.0,213.3,0,Occasional Value Customers,False
+C0240,3.0,20.0,3389.1,2,Loyal Frequent Customers,False
+C0241,4.0,22.0,3435.5,2,Loyal Frequent Customers,False
+C0242,1.0,19.0,4084.9,2,Loyal Frequent Customers,False
+C0243,2.0,29.0,6082.3,2,Loyal Frequent Customers,False
+C0244,23.0,16.0,1964.5,2,Loyal Frequent Customers,False
+C0245,19.0,3.0,1097.0,0,Occasional Value Customers,False
+C0246,7.0,19.0,2611.9,2,Loyal Frequent Customers,False
+C0247,9.0,21.0,2608.45,2,Loyal Frequent Customers,False
+C0248,0.0,25.0,4147.75,2,Loyal Frequent Customers,False
+C0249,5.0,2.0,186.25,0,Occasional Value Customers,False
+C0250,5.0,5.0,2762.7,0,Occasional Value Customers,False
+C0251,31.0,20.0,3646.6,2,Loyal Frequent Customers,False
+C0252,3.0,15.0,3303.2,2,Loyal Frequent Customers,False
+C0253,37.0,4.0,938.8,0,Occasional Value Customers,False
+C0254,77.0,4.0,307.15,3,Dormant At-Risk Customers,False
+C0255,0.0,28.0,5182.0,2,Loyal Frequent Customers,False
+C0256,4.0,20.0,3011.75,2,Loyal Frequent Customers,False
+C0257,36.0,3.0,237.3,0,Occasional Value Customers,False
+C0258,9.0,21.0,3025.55,2,Loyal Frequent Customers,False
+C0259,69.0,5.0,959.0,0,Occasional Value Customers,False
+C0260,8.0,11.0,2403.0,2,Loyal Frequent Customers,False
+C0261,4.0,17.0,1609.6,2,Loyal Frequent Customers,False
+C0262,70.0,3.0,739.0,3,Dormant At-Risk Customers,False
+C0263,22.0,19.0,4997.2,2,Loyal Frequent Customers,False
+C0264,47.0,4.0,3994.25,0,Occasional Value Customers,False
+C0265,3.0,5.0,610.7,0,Occasional Value Customers,False
+C0266,174.0,1.0,15.0,3,Dormant At-Risk Customers,False
+C0267,24.0,7.0,12210.25,1,Premium High Spenders,True
+C0268,4.0,17.0,2702.45,2,Loyal Frequent Customers,False
+C0269,45.0,2.0,717.5,0,Occasional Value Customers,False
+C0270,12.0,15.0,2992.6,2,Loyal Frequent Customers,False
+C0271,31.0,4.0,7488.3,1,Premium High Spenders,True
+C0272,5.0,17.0,2569.9,2,Loyal Frequent Customers,False
+C0273,74.0,5.0,903.5,3,Dormant At-Risk Customers,False
+C0274,156.0,1.0,2698.2,3,Dormant At-Risk Customers,False
+C0275,40.0,11.0,1986.9,0,Occasional Value Customers,False
+C0276,115.0,2.0,114.0,3,Dormant At-Risk Customers,False
+C0277,166.0,1.0,54.0,3,Dormant At-Risk Customers,False
+C0278,73.0,3.0,1534.5,3,Dormant At-Risk Customers,False
+C0279,59.0,2.0,250.0,0,Occasional Value Customers,False
+C0280,6.0,4.0,2505.75,0,Occasional Value Customers,False
+C0281,36.0,19.0,2379.15,2,Loyal Frequent Customers,False
+C0282,9.0,26.0,3686.85,2,Loyal Frequent Customers,False
+C0283,59.0,2.0,408.0,0,Occasional Value Customers,False
+C0284,50.0,2.0,730.0,0,Occasional Value Customers,False
+C0285,103.0,3.0,210.0,3,Dormant At-Risk Customers,False
+C0286,9.0,4.0,838.0,0,Occasional Value Customers,False
+C0287,3.0,20.0,3364.05,2,Loyal Frequent Customers,False
+C0288,16.0,2.0,283.2,0,Occasional Value Customers,False
+C0289,0.0,15.0,3277.75,2,Loyal Frequent Customers,False
+C0290,3.0,24.0,4178.2,2,Loyal Frequent Customers,False
+C0291,22.0,11.0,13742.6,1,Premium High Spenders,True
+C0292,64.0,3.0,1012.0,0,Occasional Value Customers,False
+C0293,0.0,17.0,3024.05,2,Loyal Frequent Customers,False
+C0294,22.0,22.0,4064.45,2,Loyal Frequent Customers,False
+C0295,61.0,2.0,100.19999999999999,0,Occasional Value Customers,False
+C0296,62.0,2.0,2767.1,0,Occasional Value Customers,False
+C0297,5.0,14.0,2289.0,2,Loyal Frequent Customers,False
+C0298,1.0,22.0,4419.9,2,Loyal Frequent Customers,False
+C0299,4.0,6.0,5147.3,1,Premium High Spenders,True
+C0300,39.0,4.0,4099.75,0,Occasional Value Customers,False
+C0301,118.0,2.0,573.5,3,Dormant At-Risk Customers,False
+C0302,39.0,4.0,854.2,0,Occasional Value Customers,False
+C0303,19.0,6.0,3390.1499999999996,0,Occasional Value Customers,False
+C0304,41.0,3.0,360.25,0,Occasional Value Customers,False
+C0305,9.0,22.0,3921.0,2,Loyal Frequent Customers,False
+C0306,13.0,3.0,1308.2,0,Occasional Value Customers,False
+C0307,85.0,2.0,361.2,3,Dormant At-Risk Customers,False
+C0308,28.0,6.0,10750.8,1,Premium High Spenders,True
+C0309,0.0,25.0,4565.6,2,Loyal Frequent Customers,False
+C0310,37.0,1.0,329.4,0,Occasional Value Customers,False
+C0311,38.0,7.0,3751.4,0,Occasional Value Customers,False
+C0312,14.0,8.0,6095.2,1,Premium High Spenders,True
+C0313,4.0,17.0,2799.1,2,Loyal Frequent Customers,False
+C0314,8.0,19.0,3198.0,2,Loyal Frequent Customers,False
+C0315,18.0,10.0,1982.1,0,Occasional Value Customers,False
+C0316,7.0,4.0,4045.0,0,Occasional Value Customers,False
+C0317,8.0,21.0,3834.4,2,Loyal Frequent Customers,False
+C0318,82.0,3.0,475.8,3,Dormant At-Risk Customers,False
+C0319,137.0,1.0,180.0,3,Dormant At-Risk Customers,False
+C0320,1.0,5.0,2861.2,0,Occasional Value Customers,False
+C0321,52.0,2.0,285.8,0,Occasional Value Customers,False
+C0322,2.0,17.0,4808.8,2,Loyal Frequent Customers,False
+C0323,77.0,1.0,116.0,3,Dormant At-Risk Customers,False
+C0324,14.0,5.0,6142.8,1,Premium High Spenders,True
+C0325,27.0,4.0,1338.4,0,Occasional Value Customers,False
+C0326,51.0,14.0,2018.0,2,Loyal Frequent Customers,False
+C0327,10.0,21.0,3265.4,2,Loyal Frequent Customers,False
+C0328,62.0,2.0,331.5,0,Occasional Value Customers,False
+C0329,25.0,3.0,2395.0,0,Occasional Value Customers,False
+C0330,12.0,4.0,268.65,0,Occasional Value Customers,False
+C0331,23.0,6.0,5584.450000000001,1,Premium High Spenders,True
+C0332,44.0,9.0,11806.4,1,Premium High Spenders,True
+C0333,154.0,1.0,718.2,3,Dormant At-Risk Customers,False
+C0334,4.0,18.0,1992.75,2,Loyal Frequent Customers,False
+C0335,37.0,4.0,6720.9,1,Premium High Spenders,True
+C0336,3.0,6.0,641.7,0,Occasional Value Customers,False
+C0337,18.0,15.0,1810.35,2,Loyal Frequent Customers,False
+C0338,8.0,18.0,4391.25,2,Loyal Frequent Customers,False
+C0339,12.0,2.0,245.8,0,Occasional Value Customers,False
+C0340,70.0,1.0,314.1,3,Dormant At-Risk Customers,False
+C0341,11.0,27.0,4376.05,2,Loyal Frequent Customers,False
+C0342,3.0,19.0,3631.15,2,Loyal Frequent Customers,False
+C0343,0.0,7.0,1323.5,0,Occasional Value Customers,False
+C0344,2.0,19.0,3167.7,2,Loyal Frequent Customers,False
+C0345,2.0,20.0,2623.2,2,Loyal Frequent Customers,False
+C0346,6.0,20.0,3038.55,2,Loyal Frequent Customers,False
+C0347,10.0,7.0,3426.85,0,Occasional Value Customers,False
+C0348,2.0,33.0,6014.35,2,Loyal Frequent Customers,False
+C0349,26.0,3.0,249.0,0,Occasional Value Customers,False
+C0350,1.0,4.0,782.3,0,Occasional Value Customers,False
+C0351,21.0,2.0,1396.0,0,Occasional Value Customers,False
+C0352,19.0,25.0,3557.0,2,Loyal Frequent Customers,False
+C0353,8.0,19.0,2431.25,2,Loyal Frequent Customers,False
+C0355,7.0,25.0,4024.0,2,Loyal Frequent Customers,False
+C0356,140.0,2.0,538.0,3,Dormant At-Risk Customers,False
+C0357,23.0,5.0,1021.0999999999999,0,Occasional Value Customers,False
+C0358,17.0,3.0,796.8,0,Occasional Value Customers,False
+C0359,21.0,22.0,4627.9,2,Loyal Frequent Customers,False
+C0360,19.0,12.0,2648.05,2,Loyal Frequent Customers,False
+C0361,81.0,5.0,4377.6,3,Dormant At-Risk Customers,False
+C0362,5.0,3.0,903.75,0,Occasional Value Customers,False
+C0364,47.0,3.0,730.5,0,Occasional Value Customers,False
+C0365,71.0,2.0,96.0,3,Dormant At-Risk Customers,False
+C0366,66.0,1.0,33.6,0,Occasional Value Customers,False
+C0367,3.0,16.0,1982.5,2,Loyal Frequent Customers,False
+C0368,24.0,4.0,709.0,0,Occasional Value Customers,False
+C0369,9.0,8.0,7070.849999999999,1,Premium High Spenders,True
+C0370,26.0,18.0,3019.05,2,Loyal Frequent Customers,False
+C0371,2.0,20.0,4242.05,2,Loyal Frequent Customers,False
+C0372,0.0,6.0,4981.0,1,Premium High Spenders,True
+C0373,54.0,3.0,926.0,0,Occasional Value Customers,False
+C0374,2.0,7.0,1600.0,0,Occasional Value Customers,False
+C0375,16.0,7.0,5177.25,1,Premium High Spenders,True
+C0376,67.0,3.0,536.3000000000001,0,Occasional Value Customers,False
+C0377,74.0,4.0,980.6,3,Dormant At-Risk Customers,False
+C0378,7.0,19.0,4015.25,2,Loyal Frequent Customers,False
+C0379,50.0,4.0,1002.1,0,Occasional Value Customers,False
+C0380,6.0,6.0,5810.6,1,Premium High Spenders,True
+C0381,0.0,21.0,3692.3,2,Loyal Frequent Customers,False
+C0382,8.0,23.0,4624.9,2,Loyal Frequent Customers,False
+C0383,20.0,19.0,3733.1,2,Loyal Frequent Customers,False
+C0384,18.0,26.0,6207.9,2,Loyal Frequent Customers,False
+C0385,3.0,11.0,2253.2,2,Loyal Frequent Customers,False
+C0386,12.0,2.0,906.6,0,Occasional Value Customers,False
+C0387,155.0,1.0,700.0,3,Dormant At-Risk Customers,False
+C0388,5.0,12.0,1683.95,2,Loyal Frequent Customers,False
+C0389,7.0,4.0,2634.35,0,Occasional Value Customers,False
+C0390,117.0,3.0,604.0,3,Dormant At-Risk Customers,False
+C0391,59.0,3.0,1063.2,0,Occasional Value Customers,False
+C0392,20.0,16.0,2692.75,2,Loyal Frequent Customers,False
+C0393,49.0,4.0,870.1,0,Occasional Value Customers,False
+C0394,54.0,9.0,3233.3,0,Occasional Value Customers,False
+C0395,41.0,4.0,412.7,0,Occasional Value Customers,False
+C0396,1.0,17.0,2504.25,2,Loyal Frequent Customers,False
+C0397,77.0,3.0,288.5,3,Dormant At-Risk Customers,False
+C0398,23.0,16.0,2661.85,2,Loyal Frequent Customers,False
+C0399,129.0,1.0,272.0,3,Dormant At-Risk Customers,False
+C0400,1.0,23.0,5759.9,2,Loyal Frequent Customers,False
+C0401,50.0,2.0,190.7,0,Occasional Value Customers,False
+C0402,10.0,5.0,2374.0,0,Occasional Value Customers,False
+C0403,1.0,5.0,1045.25,0,Occasional Value Customers,False
+C0404,53.0,4.0,707.6,0,Occasional Value Customers,False
+C0405,61.0,4.0,1208.2,0,Occasional Value Customers,False
+C0406,20.0,3.0,911.8,0,Occasional Value Customers,False
+C0407,70.0,8.0,9945.85,1,Premium High Spenders,True
+C0408,8.0,24.0,3353.5,2,Loyal Frequent Customers,False
+C0409,13.0,11.0,1924.55,0,Occasional Value Customers,False
+C0410,45.0,7.0,4762.45,1,Premium High Spenders,True
+C0411,25.0,20.0,2756.15,2,Loyal Frequent Customers,False
+C0413,8.0,3.0,299.2,0,Occasional Value Customers,False
+C0414,41.0,4.0,740.5,0,Occasional Value Customers,False
+C0415,38.0,3.0,1244.6000000000001,0,Occasional Value Customers,False
+C0416,29.0,19.0,3647.15,2,Loyal Frequent Customers,False
+C0417,6.0,24.0,3776.75,2,Loyal Frequent Customers,False
+C0418,174.0,1.0,399.0,3,Dormant At-Risk Customers,False
+C0419,78.0,4.0,1682.9,3,Dormant At-Risk Customers,False
+C0420,1.0,28.0,4532.75,2,Loyal Frequent Customers,False
+C0421,46.0,3.0,1414.0,0,Occasional Value Customers,False
+C0422,162.0,2.0,682.0,3,Dormant At-Risk Customers,False
+C0423,80.0,1.0,116.0,3,Dormant At-Risk Customers,False
+C0424,46.0,7.0,9292.3,1,Premium High Spenders,True
+C0425,54.0,3.0,744.0,0,Occasional Value Customers,False
+C0426,23.0,11.0,10377.1,1,Premium High Spenders,True
+C0427,35.0,4.0,697.0,0,Occasional Value Customers,False
+C0428,2.0,23.0,4445.3,2,Loyal Frequent Customers,False
+C0429,20.0,13.0,1145.1,0,Occasional Value Customers,False
+C0430,5.0,6.0,420.9,0,Occasional Value Customers,False
+C0431,7.0,20.0,2468.95,2,Loyal Frequent Customers,False
+C0432,0.0,23.0,4913.95,2,Loyal Frequent Customers,False
+C0433,43.0,8.0,2878.0,0,Occasional Value Customers,False
+C0434,17.0,2.0,542.5,0,Occasional Value Customers,False
+C0435,6.0,28.0,6485.1,2,Loyal Frequent Customers,False
+C0436,161.0,3.0,2295.25,3,Dormant At-Risk Customers,False
+C0437,110.0,3.0,813.6,3,Dormant At-Risk Customers,False
+C0438,21.0,4.0,1226.1,0,Occasional Value Customers,False
+C0439,13.0,2.0,213.0,0,Occasional Value Customers,False
+C0440,1.0,2.0,328.3,0,Occasional Value Customers,False
+C0441,4.0,19.0,2522.75,2,Loyal Frequent Customers,False
+C0442,7.0,4.0,2144.3500000000004,0,Occasional Value Customers,False
+C0443,9.0,3.0,987.2,0,Occasional Value Customers,False
+C0444,5.0,16.0,4874.3,2,Loyal Frequent Customers,False
+C0445,6.0,4.0,1070.95,0,Occasional Value Customers,False
+C0446,29.0,19.0,3106.15,2,Loyal Frequent Customers,False
+C0447,21.0,28.0,4645.5,2,Loyal Frequent Customers,False
+C0448,148.0,2.0,463.5,3,Dormant At-Risk Customers,False
+C0449,66.0,3.0,1310.5,0,Occasional Value Customers,False
+C0450,94.0,5.0,4323.15,3,Dormant At-Risk Customers,False
+C0451,24.0,4.0,3295.7,0,Occasional Value Customers,False
+C0452,4.0,4.0,1319.3,0,Occasional Value Customers,False
+C0453,86.0,4.0,2081.25,3,Dormant At-Risk Customers,False
+C0454,54.0,6.0,8447.65,1,Premium High Spenders,True
+C0455,71.0,4.0,1975.8000000000002,3,Dormant At-Risk Customers,False
+C0456,4.0,17.0,3393.1,2,Loyal Frequent Customers,False
+C0457,7.0,7.0,6115.2,1,Premium High Spenders,True
+C0458,139.0,5.0,892.35,3,Dormant At-Risk Customers,False
+C0459,15.0,5.0,979.0,0,Occasional Value Customers,False
+C0460,2.0,15.0,2286.5,2,Loyal Frequent Customers,False
+C0462,4.0,21.0,3852.35,2,Loyal Frequent Customers,False
+C0463,122.0,1.0,208.0,3,Dormant At-Risk Customers,False
+C0464,3.0,3.0,663.5,0,Occasional Value Customers,False
+C0465,24.0,3.0,379.2,0,Occasional Value Customers,False
+C0466,23.0,3.0,972.5,0,Occasional Value Customers,False
+C0467,16.0,3.0,744.0,0,Occasional Value Customers,False
+C0468,110.0,3.0,180.6,3,Dormant At-Risk Customers,False
+C0469,1.0,23.0,4102.4,2,Loyal Frequent Customers,False
+C0470,17.0,8.0,5170.4,1,Premium High Spenders,True
+C0471,46.0,6.0,7889.799999999999,1,Premium High Spenders,True
+C0472,7.0,18.0,2983.95,2,Loyal Frequent Customers,False
+C0473,178.0,1.0,45.0,3,Dormant At-Risk Customers,False
+C0474,11.0,16.0,2231.35,2,Loyal Frequent Customers,False
+C0475,116.0,1.0,36.0,3,Dormant At-Risk Customers,False
+C0476,54.0,6.0,6361.85,1,Premium High Spenders,True
+C0478,23.0,4.0,480.0,0,Occasional Value Customers,False
+C0479,20.0,7.0,6497.400000000001,1,Premium High Spenders,True
+C0480,6.0,14.0,3982.6,2,Loyal Frequent Customers,False
+C0481,144.0,1.0,193.5,3,Dormant At-Risk Customers,False
+C0482,3.0,4.0,875.2,0,Occasional Value Customers,False
+C0483,46.0,10.0,4126.0,1,Premium High Spenders,True
+C0484,112.0,4.0,662.0,3,Dormant At-Risk Customers,False
+C0485,12.0,13.0,1796.95,2,Loyal Frequent Customers,False
+C0486,95.0,2.0,393.0,3,Dormant At-Risk Customers,False
+C0487,33.0,3.0,292.9,0,Occasional Value Customers,False
+C0488,8.0,11.0,13187.5,1,Premium High Spenders,True
+C0489,0.0,18.0,2706.4,2,Loyal Frequent Customers,False
+C0490,1.0,19.0,3835.75,2,Loyal Frequent Customers,False
+C0491,10.0,20.0,3192.15,2,Loyal Frequent Customers,False
+C0492,6.0,27.0,5191.5,2,Loyal Frequent Customers,False
+C0493,6.0,3.0,3968.55,0,Occasional Value Customers,False
+C0494,21.0,15.0,1999.15,2,Loyal Frequent Customers,False
+C0495,41.0,1.0,73.5,0,Occasional Value Customers,False
+C0496,25.0,5.0,3230.9,0,Occasional Value Customers,False
+C0497,21.0,4.0,3471.25,0,Occasional Value Customers,False
+C0498,2.0,17.0,2803.9,2,Loyal Frequent Customers,False
+C0499,62.0,2.0,278.8,0,Occasional Value Customers,False
+C0501,88.0,1.0,69.6,3,Dormant At-Risk Customers,False
+C0502,18.0,14.0,2305.25,2,Loyal Frequent Customers,False
+C0503,0.0,18.0,3419.1,2,Loyal Frequent Customers,False
+C0504,113.0,2.0,154.0,3,Dormant At-Risk Customers,False
+C0505,30.0,11.0,1784.9,0,Occasional Value Customers,False
+C0506,44.0,5.0,3102.45,0,Occasional Value Customers,False
+C0507,90.0,1.0,209.0,3,Dormant At-Risk Customers,False
+C0508,15.0,13.0,2892.35,2,Loyal Frequent Customers,False
+C0509,3.0,5.0,5703.65,1,Premium High Spenders,True
+C0510,2.0,22.0,3385.9,2,Loyal Frequent Customers,False
+C0511,22.0,2.0,776.0,0,Occasional Value Customers,False
+C0512,71.0,5.0,11617.65,1,Premium High Spenders,True
+C0513,84.0,3.0,505.5,3,Dormant At-Risk Customers,False
+C0514,36.0,4.0,1256.25,0,Occasional Value Customers,False
+C0515,85.0,5.0,1327.2,3,Dormant At-Risk Customers,False
+C0516,0.0,21.0,3642.35,2,Loyal Frequent Customers,False
+C0517,7.0,1.0,90.25,0,Occasional Value Customers,False
+C0518,82.0,3.0,245.75,3,Dormant At-Risk Customers,False
+C0519,25.0,6.0,4674.35,1,Premium High Spenders,True
+C0520,23.0,5.0,3051.7,0,Occasional Value Customers,False
+C0521,8.0,5.0,1976.05,0,Occasional Value Customers,False
+C0522,38.0,4.0,855.5,0,Occasional Value Customers,False
+C0523,12.0,17.0,2805.55,2,Loyal Frequent Customers,False
+C0524,43.0,7.0,7961.4,1,Premium High Spenders,True
+C0525,30.0,7.0,12719.7,1,Premium High Spenders,True
+C0526,1.0,4.0,508.05,0,Occasional Value Customers,False
+C0527,5.0,24.0,6047.7,2,Loyal Frequent Customers,False
+C0528,115.0,1.0,28.8,3,Dormant At-Risk Customers,False
+C0529,25.0,13.0,1264.4,0,Occasional Value Customers,False
+C0530,16.0,25.0,4825.9,2,Loyal Frequent Customers,False
+C0531,8.0,21.0,3799.95,2,Loyal Frequent Customers,False
+C0532,87.0,1.0,80.75,3,Dormant At-Risk Customers,False
+C0533,30.0,7.0,6870.7,1,Premium High Spenders,True
+C0534,5.0,7.0,990.0,0,Occasional Value Customers,False
+C0535,66.0,3.0,469.5,0,Occasional Value Customers,False
+C0536,11.0,20.0,3285.8,2,Loyal Frequent Customers,False
+C0537,3.0,20.0,3988.0,2,Loyal Frequent Customers,False
+C0538,2.0,15.0,2739.1,2,Loyal Frequent Customers,False
+C0539,12.0,23.0,3920.85,2,Loyal Frequent Customers,False
+C0540,8.0,18.0,3255.05,2,Loyal Frequent Customers,False
+C0541,89.0,1.0,38.25,3,Dormant At-Risk Customers,False
+C0542,24.0,2.0,169.5,0,Occasional Value Customers,False
+C0543,13.0,9.0,11195.1,1,Premium High Spenders,True
+C0544,6.0,18.0,2674.85,2,Loyal Frequent Customers,False
+C0545,13.0,1.0,127.5,0,Occasional Value Customers,False
+C0546,22.0,12.0,2269.35,2,Loyal Frequent Customers,False
+C0547,4.0,22.0,3180.8,2,Loyal Frequent Customers,False
+C0548,0.0,25.0,5386.55,2,Loyal Frequent Customers,False
+C0549,2.0,3.0,389.0,0,Occasional Value Customers,False
+C0550,1.0,12.0,2855.2,2,Loyal Frequent Customers,False
+C0551,13.0,3.0,1280.25,0,Occasional Value Customers,False
+C0552,41.0,2.0,488.0,0,Occasional Value Customers,False
+C0553,13.0,7.0,6945.1,1,Premium High Spenders,True
+C0554,16.0,13.0,2887.5,2,Loyal Frequent Customers,False
+C0555,12.0,15.0,3199.4,2,Loyal Frequent Customers,False
+C0556,29.0,5.0,1598.2,0,Occasional Value Customers,False
+C0557,7.0,10.0,7527.8,1,Premium High Spenders,True
+C0558,47.0,13.0,1627.35,0,Occasional Value Customers,False
+C0559,2.0,18.0,2762.65,2,Loyal Frequent Customers,False
+C0560,17.0,8.0,1147.75,0,Occasional Value Customers,False
+C0561,2.0,17.0,2757.5,2,Loyal Frequent Customers,False
+C0562,7.0,3.0,1537.7,0,Occasional Value Customers,False
+C0563,27.0,3.0,4116.4,0,Occasional Value Customers,False
+C0564,4.0,17.0,3626.8,2,Loyal Frequent Customers,False
+C0565,47.0,4.0,4399.65,1,Premium High Spenders,True
+C0566,23.0,4.0,769.9,0,Occasional Value Customers,False
+C0567,4.0,22.0,2127.4,2,Loyal Frequent Customers,False
+C0568,40.0,2.0,88.8,0,Occasional Value Customers,False
+C0569,25.0,5.0,643.4,0,Occasional Value Customers,False
+C0570,6.0,22.0,3339.4,2,Loyal Frequent Customers,False
+C0571,39.0,4.0,1950.95,0,Occasional Value Customers,False
+C0572,57.0,4.0,497.35,0,Occasional Value Customers,False
+C0573,75.0,5.0,1221.9,3,Dormant At-Risk Customers,False
+C0574,4.0,23.0,3256.4,2,Loyal Frequent Customers,False
+C0575,0.0,15.0,3115.7,2,Loyal Frequent Customers,False
+C0576,9.0,2.0,383.2,0,Occasional Value Customers,False
+C0577,9.0,5.0,5138.4,1,Premium High Spenders,True
+C0578,56.0,3.0,1064.75,0,Occasional Value Customers,False
+C0579,6.0,13.0,1983.55,2,Loyal Frequent Customers,False
+C0580,6.0,17.0,2881.15,2,Loyal Frequent Customers,False
+C0581,110.0,2.0,387.3,3,Dormant At-Risk Customers,False
+C0582,90.0,3.0,2775.8,3,Dormant At-Risk Customers,False
+C0583,10.0,16.0,2651.3,2,Loyal Frequent Customers,False
+C0584,46.0,4.0,943.5,0,Occasional Value Customers,False
+C0585,4.0,14.0,1956.75,2,Loyal Frequent Customers,False
+C0586,39.0,1.0,247.0,0,Occasional Value Customers,False
+C0587,2.0,26.0,4184.8,2,Loyal Frequent Customers,False
+C0588,18.0,6.0,6344.1,1,Premium High Spenders,True
+C0589,8.0,18.0,3246.15,2,Loyal Frequent Customers,False
+C0590,25.0,2.0,270.2,0,Occasional Value Customers,False
+C0591,14.0,19.0,2530.85,2,Loyal Frequent Customers,False
+C0592,7.0,23.0,3862.25,2,Loyal Frequent Customers,False
+C0593,17.0,11.0,1057.1,0,Occasional Value Customers,False
+C0594,21.0,26.0,3719.8,2,Loyal Frequent Customers,False
+C0595,4.0,18.0,2532.3,2,Loyal Frequent Customers,False
+C0596,7.0,26.0,4031.7,2,Loyal Frequent Customers,False
+C0597,3.0,21.0,3267.6,2,Loyal Frequent Customers,False
+C0598,5.0,4.0,597.75,0,Occasional Value Customers,False
+C0599,16.0,3.0,353.25,0,Occasional Value Customers,False
+C0600,3.0,8.0,5292.65,1,Premium High Spenders,True
+C0601,40.0,2.0,204.0,0,Occasional Value Customers,False
+C0602,121.0,2.0,164.4,3,Dormant At-Risk Customers,False
+C0603,90.0,2.0,331.20000000000005,3,Dormant At-Risk Customers,False
+C0604,0.0,19.0,4975.9,2,Loyal Frequent Customers,False
+C0605,61.0,4.0,685.0,0,Occasional Value Customers,False
+C0606,22.0,17.0,3362.9,2,Loyal Frequent Customers,False
+C0608,98.0,1.0,280.0,3,Dormant At-Risk Customers,False
+C0609,31.0,26.0,4752.65,2,Loyal Frequent Customers,False
+C0610,142.0,2.0,4497.0,3,Dormant At-Risk Customers,False
+C0611,1.0,11.0,2703.55,2,Loyal Frequent Customers,False
+C0612,1.0,7.0,981.6,0,Occasional Value Customers,False
+C0613,3.0,18.0,2580.5,2,Loyal Frequent Customers,False
+C0614,20.0,1.0,21.75,0,Occasional Value Customers,False
+C0615,5.0,12.0,1970.2,2,Loyal Frequent Customers,False
+C0616,72.0,3.0,2518.6,3,Dormant At-Risk Customers,False
+C0617,48.0,2.0,61.0,0,Occasional Value Customers,False
+C0618,14.0,2.0,74.0,0,Occasional Value Customers,False
+C0619,14.0,3.0,3554.0,0,Occasional Value Customers,False
+C0620,11.0,22.0,3356.0,2,Loyal Frequent Customers,False
+C0621,9.0,2.0,366.0,0,Occasional Value Customers,False
+C0622,52.0,5.0,785.0,0,Occasional Value Customers,False
+C0623,86.0,1.0,245.0,3,Dormant At-Risk Customers,False
+C0624,43.0,6.0,1049.6,0,Occasional Value Customers,False
+C0626,13.0,19.0,3236.8,2,Loyal Frequent Customers,False
+C0627,15.0,7.0,5244.9,1,Premium High Spenders,True
+C0628,22.0,2.0,158.0,0,Occasional Value Customers,False
+C0629,0.0,24.0,3514.9,2,Loyal Frequent Customers,False
+C0630,45.0,4.0,649.1,0,Occasional Value Customers,False
+C0631,58.0,7.0,3931.25,0,Occasional Value Customers,False
+C0632,4.0,3.0,517.0,0,Occasional Value Customers,False
+C0633,1.0,23.0,4300.1,2,Loyal Frequent Customers,False
+C0634,40.0,1.0,255.0,0,Occasional Value Customers,False
+C0635,76.0,4.0,292.2,3,Dormant At-Risk Customers,False
+C0636,2.0,19.0,2754.7,2,Loyal Frequent Customers,False
+C0637,86.0,1.0,80.75,3,Dormant At-Risk Customers,False
+C0638,3.0,18.0,2777.15,2,Loyal Frequent Customers,False
+C0639,29.0,19.0,4103.4,2,Loyal Frequent Customers,False
+C0640,0.0,23.0,3545.2,2,Loyal Frequent Customers,False
+C0641,13.0,24.0,4045.4,2,Loyal Frequent Customers,False
+C0642,33.0,2.0,548.0,0,Occasional Value Customers,False
+C0643,0.0,9.0,1088.4,0,Occasional Value Customers,False
+C0644,1.0,22.0,3976.9,2,Loyal Frequent Customers,False
+C0645,6.0,4.0,512.25,0,Occasional Value Customers,False
+C0646,0.0,20.0,2775.5,2,Loyal Frequent Customers,False
+C0647,3.0,5.0,2106.0,0,Occasional Value Customers,False
+C0648,60.0,1.0,142.5,0,Occasional Value Customers,False
+C0649,38.0,3.0,1131.4,0,Occasional Value Customers,False
+C0650,6.0,21.0,3955.75,2,Loyal Frequent Customers,False
+C0651,20.0,3.0,1610.75,0,Occasional Value Customers,False
+C0652,6.0,2.0,191.0,0,Occasional Value Customers,False
+C0653,41.0,9.0,8764.1,1,Premium High Spenders,True
+C0655,40.0,2.0,121.8,0,Occasional Value Customers,False
+C0656,4.0,17.0,2959.9,2,Loyal Frequent Customers,False
+C0657,1.0,3.0,496.0,0,Occasional Value Customers,False
+C0658,30.0,3.0,185.5,0,Occasional Value Customers,False
+C0659,4.0,10.0,8321.8,1,Premium High Spenders,True
+C0660,76.0,2.0,300.0,3,Dormant At-Risk Customers,False
+C0661,73.0,5.0,558.5,3,Dormant At-Risk Customers,False
+C0662,8.0,3.0,175.1,0,Occasional Value Customers,False
+C0663,12.0,16.0,2786.55,2,Loyal Frequent Customers,False
+C0664,30.0,21.0,3332.95,2,Loyal Frequent Customers,False
+C0665,9.0,6.0,6817.5,1,Premium High Spenders,True
+C0666,15.0,18.0,3008.0,2,Loyal Frequent Customers,False
+C0667,57.0,4.0,284.8,0,Occasional Value Customers,False
+C0668,47.0,1.0,168.0,0,Occasional Value Customers,False
+C0669,24.0,15.0,2157.15,2,Loyal Frequent Customers,False
+C0670,12.0,6.0,4534.0,1,Premium High Spenders,True
+C0671,10.0,21.0,3478.9,2,Loyal Frequent Customers,False
+C0672,47.0,2.0,228.0,0,Occasional Value Customers,False
+C0673,53.0,1.0,399.0,0,Occasional Value Customers,False
+C0674,15.0,17.0,4001.85,2,Loyal Frequent Customers,False
+C0675,6.0,18.0,3306.1,2,Loyal Frequent Customers,False
+C0676,8.0,4.0,316.5,0,Occasional Value Customers,False
+C0677,136.0,2.0,244.0,3,Dormant At-Risk Customers,False
+C0678,24.0,24.0,3480.2,2,Loyal Frequent Customers,False
+C0679,0.0,15.0,2949.4,2,Loyal Frequent Customers,False
+C0680,4.0,2.0,135.0,0,Occasional Value Customers,False
+C0681,82.0,7.0,5284.9,1,Premium High Spenders,True
+C0682,51.0,7.0,7733.299999999999,1,Premium High Spenders,True
+C0683,0.0,25.0,3976.5,2,Loyal Frequent Customers,False
+C0684,12.0,30.0,6702.5,2,Loyal Frequent Customers,False
+C0685,10.0,13.0,3493.25,2,Loyal Frequent Customers,False
+C0686,43.0,1.0,131.75,0,Occasional Value Customers,False
+C0687,28.0,3.0,4065.85,0,Occasional Value Customers,False
+C0688,18.0,6.0,1138.0,0,Occasional Value Customers,False
+C0689,4.0,15.0,2834.6,2,Loyal Frequent Customers,False
+C0690,6.0,22.0,3370.45,2,Loyal Frequent Customers,False
+C0691,118.0,2.0,318.0,3,Dormant At-Risk Customers,False
+C0692,180.0,1.0,2598.0,3,Dormant At-Risk Customers,False
+C0693,27.0,9.0,14766.550000000001,1,Premium High Spenders,True
+C0694,32.0,3.0,578.6,0,Occasional Value Customers,False
+C0695,23.0,3.0,703.95,0,Occasional Value Customers,False
+C0696,51.0,9.0,10087.8,1,Premium High Spenders,True
+C0697,29.0,4.0,5003.1,1,Premium High Spenders,True
+C0698,36.0,2.0,239.0,0,Occasional Value Customers,False
+C0699,2.0,10.0,12471.8,1,Premium High Spenders,True
+C0700,32.0,7.0,6049.799999999999,1,Premium High Spenders,True
+C0701,7.0,20.0,3626.5,2,Loyal Frequent Customers,False
+C0702,128.0,3.0,904.0,3,Dormant At-Risk Customers,False
+C0703,44.0,5.0,2606.3,0,Occasional Value Customers,False
+C0704,8.0,5.0,717.65,0,Occasional Value Customers,False
+C0705,0.0,21.0,3185.4,2,Loyal Frequent Customers,False
+C0706,64.0,2.0,672.0,0,Occasional Value Customers,False
+C0707,23.0,4.0,2543.35,0,Occasional Value Customers,False
+C0708,5.0,23.0,4095.15,2,Loyal Frequent Customers,False
+C0709,9.0,13.0,1644.05,2,Loyal Frequent Customers,False
+C0710,123.0,1.0,47.5,3,Dormant At-Risk Customers,False
+C0711,73.0,2.0,119.4,3,Dormant At-Risk Customers,False
+C0712,1.0,4.0,5995.4,1,Premium High Spenders,True
+C0713,14.0,7.0,7898.4,1,Premium High Spenders,True
+C0714,2.0,14.0,3023.15,2,Loyal Frequent Customers,False
+C0715,60.0,4.0,671.1,0,Occasional Value Customers,False
+C0716,14.0,24.0,4746.25,2,Loyal Frequent Customers,False
+C0717,4.0,4.0,5099.5,1,Premium High Spenders,True
+C0718,41.0,2.0,1497.0,0,Occasional Value Customers,False
+C0719,39.0,2.0,822.0,0,Occasional Value Customers,False
+C0720,8.0,5.0,605.4,0,Occasional Value Customers,False
+C0721,19.0,21.0,4087.65,2,Loyal Frequent Customers,False
+C0722,5.0,4.0,432.5,0,Occasional Value Customers,False
+C0723,158.0,1.0,135.0,3,Dormant At-Risk Customers,False
+C0725,11.0,10.0,8597.55,1,Premium High Spenders,True
+C0726,7.0,20.0,3711.75,2,Loyal Frequent Customers,False
+C0727,3.0,18.0,3649.5,2,Loyal Frequent Customers,False
+C0728,4.0,21.0,4045.35,2,Loyal Frequent Customers,False
+C0729,22.0,2.0,1061.7,0,Occasional Value Customers,False
+C0730,33.0,3.0,271.5,0,Occasional Value Customers,False
+C0731,3.0,23.0,3266.35,2,Loyal Frequent Customers,False
+C0732,7.0,21.0,2935.0,2,Loyal Frequent Customers,False
+C0733,12.0,6.0,2086.85,0,Occasional Value Customers,False
+C0734,178.0,1.0,2598.0,3,Dormant At-Risk Customers,False
+C0735,40.0,2.0,39.25,0,Occasional Value Customers,False
+C0736,156.0,1.0,50.0,3,Dormant At-Risk Customers,False
+C0737,28.0,3.0,860.0,0,Occasional Value Customers,False
+C0738,40.0,5.0,313.4,0,Occasional Value Customers,False
+C0739,1.0,4.0,2570.3,0,Occasional Value Customers,False
+C0740,43.0,17.0,1984.6499999999999,2,Loyal Frequent Customers,False
+C0741,51.0,4.0,5844.1,1,Premium High Spenders,True
+C0742,9.0,16.0,4395.5,2,Loyal Frequent Customers,False
+C0743,59.0,7.0,12730.05,1,Premium High Spenders,True
+C0744,120.0,2.0,288.75,3,Dormant At-Risk Customers,False
+C0745,0.0,17.0,3663.55,2,Loyal Frequent Customers,False
+C0746,0.0,21.0,2566.2,2,Loyal Frequent Customers,False
+C0747,8.0,2.0,55.35,0,Occasional Value Customers,False
+C0748,10.0,25.0,4509.7,2,Loyal Frequent Customers,False
+C0749,9.0,14.0,1778.0,2,Loyal Frequent Customers,False
+C0750,5.0,22.0,3643.5,2,Loyal Frequent Customers,False
+C0751,3.0,17.0,2444.1,2,Loyal Frequent Customers,False
+C0752,2.0,21.0,4236.9,2,Loyal Frequent Customers,False
+C0753,1.0,16.0,2038.85,2,Loyal Frequent Customers,False
+C0754,3.0,4.0,920.4,0,Occasional Value Customers,False
+C0755,30.0,3.0,681.2,0,Occasional Value Customers,False
+C0756,2.0,17.0,3515.85,2,Loyal Frequent Customers,False
+C0757,7.0,16.0,3463.4,2,Loyal Frequent Customers,False
+C0758,2.0,16.0,2845.9,2,Loyal Frequent Customers,False
+C0760,20.0,20.0,3746.1,2,Loyal Frequent Customers,False
+C0761,56.0,5.0,1305.25,0,Occasional Value Customers,False
+C0762,22.0,17.0,3474.65,2,Loyal Frequent Customers,False
+C0763,107.0,4.0,1563.25,3,Dormant At-Risk Customers,False
+C0764,45.0,4.0,883.0,0,Occasional Value Customers,False
+C0765,7.0,4.0,780.0,0,Occasional Value Customers,False
+C0766,96.0,2.0,487.65,3,Dormant At-Risk Customers,False
+C0767,0.0,21.0,3663.85,2,Loyal Frequent Customers,False
+C0768,161.0,1.0,40.0,3,Dormant At-Risk Customers,False
+C0769,1.0,6.0,2407.45,0,Occasional Value Customers,False
+C0770,2.0,20.0,2604.35,2,Loyal Frequent Customers,False
+C0771,72.0,2.0,171.0,3,Dormant At-Risk Customers,False
+C0772,4.0,21.0,3596.8,2,Loyal Frequent Customers,False
+C0773,2.0,15.0,2684.25,2,Loyal Frequent Customers,False
+C0774,102.0,2.0,174.0,3,Dormant At-Risk Customers,False
+C0775,14.0,8.0,10759.2,1,Premium High Spenders,True
+C0776,11.0,26.0,5157.75,2,Loyal Frequent Customers,False
+C0777,4.0,8.0,6034.3,1,Premium High Spenders,True
+C0778,100.0,5.0,3335.6,3,Dormant At-Risk Customers,False
+C0779,136.0,3.0,4504.65,3,Dormant At-Risk Customers,False
+C0780,3.0,17.0,2944.5,2,Loyal Frequent Customers,False
+C0781,84.0,1.0,560.0,3,Dormant At-Risk Customers,False
+C0782,26.0,4.0,350.75,0,Occasional Value Customers,False
+C0783,31.0,3.0,1140.8,0,Occasional Value Customers,False
+C0784,36.0,6.0,2802.45,0,Occasional Value Customers,False
+C0785,6.0,5.0,6373.65,1,Premium High Spenders,True
+C0786,6.0,13.0,2349.8,2,Loyal Frequent Customers,False
+C0787,29.0,2.0,236.1,0,Occasional Value Customers,False
+C0788,47.0,4.0,561.0,0,Occasional Value Customers,False
+C0789,59.0,1.0,52.2,0,Occasional Value Customers,False
+C0790,6.0,24.0,4238.5,2,Loyal Frequent Customers,False
+C0791,74.0,2.0,184.3,3,Dormant At-Risk Customers,False
+C0792,5.0,22.0,4221.25,2,Loyal Frequent Customers,False
+C0793,0.0,7.0,3865.85,0,Occasional Value Customers,False
+C0794,12.0,1.0,21.6,0,Occasional Value Customers,False
+C0795,31.0,6.0,910.7,0,Occasional Value Customers,False
+C0796,88.0,1.0,352.0,3,Dormant At-Risk Customers,False
+C0797,6.0,22.0,4764.85,2,Loyal Frequent Customers,False
+C0798,9.0,29.0,4653.75,2,Loyal Frequent Customers,False
+C0799,1.0,26.0,2839.4,2,Loyal Frequent Customers,False
+C0800,6.0,22.0,2705.8,2,Loyal Frequent Customers,False
+C0801,20.0,1.0,76.5,0,Occasional Value Customers,False
+C0802,10.0,7.0,7464.1,1,Premium High Spenders,True
+C0803,0.0,15.0,2724.35,2,Loyal Frequent Customers,False
+C0804,0.0,16.0,3278.95,2,Loyal Frequent Customers,False
+C0805,2.0,13.0,2025.45,2,Loyal Frequent Customers,False
+C0806,13.0,4.0,429.4,0,Occasional Value Customers,False
+C0807,9.0,18.0,3122.45,2,Loyal Frequent Customers,False
+C0808,13.0,23.0,3046.3,2,Loyal Frequent Customers,False
+C0809,30.0,3.0,642.5,0,Occasional Value Customers,False
+C0810,106.0,1.0,48.0,3,Dormant At-Risk Customers,False
+C0811,21.0,7.0,4948.15,1,Premium High Spenders,True
+C0812,12.0,22.0,2897.35,2,Loyal Frequent Customers,False
+C0813,22.0,16.0,1777.2,2,Loyal Frequent Customers,False
+C0814,40.0,18.0,5887.4,2,Loyal Frequent Customers,False
+C0815,1.0,3.0,1047.8,0,Occasional Value Customers,False
+C0816,1.0,7.0,6514.0,1,Premium High Spenders,True
+C0817,9.0,3.0,451.65,0,Occasional Value Customers,False
+C0818,64.0,4.0,2860.0,0,Occasional Value Customers,False
+C0819,52.0,4.0,9144.55,1,Premium High Spenders,True
+C0820,35.0,3.0,178.0,0,Occasional Value Customers,False
+C0821,3.0,23.0,4362.2,2,Loyal Frequent Customers,False
+C0822,4.0,1.0,198.0,0,Occasional Value Customers,False
+C0823,24.0,4.0,827.95,0,Occasional Value Customers,False
+C0824,114.0,2.0,612.0,3,Dormant At-Risk Customers,False
+C0825,60.0,6.0,4042.25,0,Occasional Value Customers,False
+C0826,41.0,5.0,881.1,0,Occasional Value Customers,False
+C0828,23.0,6.0,3644.95,0,Occasional Value Customers,False
+C0829,7.0,4.0,1195.5,0,Occasional Value Customers,False
+C0830,6.0,2.0,353.5,0,Occasional Value Customers,False
+C0831,12.0,5.0,5037.35,1,Premium High Spenders,True
+C0832,140.0,1.0,339.15,3,Dormant At-Risk Customers,False
+C0833,13.0,8.0,4444.9,1,Premium High Spenders,True
+C0834,22.0,2.0,1225.0,0,Occasional Value Customers,False
+C0836,14.0,4.0,440.5,0,Occasional Value Customers,False
+C0837,5.0,20.0,2896.35,2,Loyal Frequent Customers,False
+C0838,71.0,2.0,432.5,3,Dormant At-Risk Customers,False
+C0839,0.0,28.0,3334.55,2,Loyal Frequent Customers,False
+C0840,4.0,20.0,3689.0,2,Loyal Frequent Customers,False
+C0841,36.0,6.0,3446.45,0,Occasional Value Customers,False
+C0842,7.0,17.0,3627.35,2,Loyal Frequent Customers,False
+C0843,34.0,2.0,107.4,0,Occasional Value Customers,False
+C0844,2.0,15.0,1770.45,2,Loyal Frequent Customers,False
+C0845,31.0,16.0,3411.2,2,Loyal Frequent Customers,False
+C0846,2.0,18.0,3421.3,2,Loyal Frequent Customers,False
+C0847,11.0,3.0,921.2,0,Occasional Value Customers,False
+C0848,25.0,3.0,785.2,0,Occasional Value Customers,False
+C0849,72.0,1.0,129.0,3,Dormant At-Risk Customers,False
+C0850,16.0,5.0,3006.6,0,Occasional Value Customers,False
+C0851,168.0,1.0,129.0,3,Dormant At-Risk Customers,False
+C0852,88.0,4.0,429.2,3,Dormant At-Risk Customers,False
+C0853,4.0,23.0,3668.4,2,Loyal Frequent Customers,False
+C0854,11.0,17.0,3477.2,2,Loyal Frequent Customers,False
+C0855,4.0,15.0,2365.6,2,Loyal Frequent Customers,False
+C0856,4.0,17.0,4203.95,2,Loyal Frequent Customers,False
+C0857,48.0,2.0,168.3,0,Occasional Value Customers,False
+C0858,124.0,5.0,575.1,3,Dormant At-Risk Customers,False
+C0859,39.0,3.0,482.6,0,Occasional Value Customers,False
+C0860,4.0,23.0,3921.45,2,Loyal Frequent Customers,False
+C0861,103.0,1.0,29.0,3,Dormant At-Risk Customers,False
+C0862,28.0,6.0,4456.05,1,Premium High Spenders,True
+C0863,61.0,2.0,581.75,0,Occasional Value Customers,False
+C0864,18.0,3.0,544.0,0,Occasional Value Customers,False
+C0865,7.0,5.0,2282.2,0,Occasional Value Customers,False
+C0866,136.0,2.0,286.8,3,Dormant At-Risk Customers,False
+C0867,105.0,3.0,2794.5,3,Dormant At-Risk Customers,False
+C0868,42.0,16.0,3161.85,2,Loyal Frequent Customers,False
+C0869,10.0,8.0,4789.0,1,Premium High Spenders,True
+C0870,34.0,14.0,2526.9,2,Loyal Frequent Customers,False
+C0871,4.0,19.0,3235.25,2,Loyal Frequent Customers,False
+C0872,2.0,20.0,3589.3,2,Loyal Frequent Customers,False
+C0873,56.0,7.0,7062.7,1,Premium High Spenders,True
+C0874,63.0,2.0,204.6,0,Occasional Value Customers,False
+C0875,7.0,19.0,3885.0,2,Loyal Frequent Customers,False
+C0876,14.0,5.0,1954.9,0,Occasional Value Customers,False
+C0877,16.0,12.0,1138.85,0,Occasional Value Customers,False
+C0878,16.0,2.0,277.4,0,Occasional Value Customers,False
+C0879,52.0,4.0,2070.15,0,Occasional Value Customers,False
+C0880,44.0,19.0,2659.05,2,Loyal Frequent Customers,False
+C0881,18.0,3.0,228.95,0,Occasional Value Customers,False
+C0882,97.0,2.0,888.0,3,Dormant At-Risk Customers,False
+C0883,36.0,4.0,5603.0,1,Premium High Spenders,True
+C0884,39.0,5.0,1144.1,0,Occasional Value Customers,False
+C0885,63.0,1.0,225.0,0,Occasional Value Customers,False
+C0886,10.0,20.0,3112.45,2,Loyal Frequent Customers,False
+C0887,77.0,4.0,2150.15,3,Dormant At-Risk Customers,False
+C0888,27.0,7.0,6854.4,1,Premium High Spenders,True
+C0889,7.0,19.0,2949.4,2,Loyal Frequent Customers,False
+C0890,27.0,5.0,745.0,0,Occasional Value Customers,False
+C0891,59.0,5.0,487.45,0,Occasional Value Customers,False
+C0892,46.0,2.0,241.25,0,Occasional Value Customers,False
+C0893,1.0,8.0,1529.3,0,Occasional Value Customers,False
+C0894,13.0,17.0,2919.2,2,Loyal Frequent Customers,False
+C0895,6.0,14.0,1465.4,2,Loyal Frequent Customers,False
+C0896,3.0,22.0,4198.75,2,Loyal Frequent Customers,False
+C0897,1.0,17.0,2234.75,2,Loyal Frequent Customers,False
+C0898,3.0,5.0,492.2,0,Occasional Value Customers,False
+C0899,33.0,3.0,5255.3,1,Premium High Spenders,True
+C0900,0.0,17.0,4775.3,2,Loyal Frequent Customers,False
+C0901,19.0,17.0,3170.2,2,Loyal Frequent Customers,False
+C0902,94.0,1.0,12.0,3,Dormant At-Risk Customers,False
+C0903,4.0,15.0,4348.4,2,Loyal Frequent Customers,False
+C0904,14.0,8.0,5360.8,1,Premium High Spenders,True
+C0905,52.0,16.0,2647.75,2,Loyal Frequent Customers,False
+C0906,12.0,17.0,2166.05,2,Loyal Frequent Customers,False
+C0907,12.0,19.0,2407.95,2,Loyal Frequent Customers,False
+C0908,94.0,4.0,1140.15,3,Dormant At-Risk Customers,False
+C0909,22.0,18.0,3825.55,2,Loyal Frequent Customers,False
+C0910,38.0,5.0,3347.3,0,Occasional Value Customers,False
+C0911,0.0,19.0,3818.35,2,Loyal Frequent Customers,False
+C0912,70.0,5.0,897.5999999999999,3,Dormant At-Risk Customers,False
+C0913,9.0,13.0,2592.4,2,Loyal Frequent Customers,False
+C0914,11.0,5.0,5849.5,1,Premium High Spenders,True
+C0915,12.0,8.0,5522.75,1,Premium High Spenders,True
+C0916,13.0,6.0,8444.85,1,Premium High Spenders,True
+C0917,36.0,2.0,747.5,0,Occasional Value Customers,False
+C0918,17.0,19.0,3997.4,2,Loyal Frequent Customers,False
+C0919,64.0,1.0,29.0,0,Occasional Value Customers,False
+C0920,16.0,5.0,4248.2,1,Premium High Spenders,True
+C0921,36.0,8.0,6020.8,1,Premium High Spenders,True
+C0922,1.0,8.0,914.55,0,Occasional Value Customers,False
+C0923,28.0,3.0,387.0,0,Occasional Value Customers,False
+C0924,3.0,22.0,4272.9,2,Loyal Frequent Customers,False
+C0925,7.0,20.0,3100.2,2,Loyal Frequent Customers,False
+C0926,157.0,1.0,139.5,3,Dormant At-Risk Customers,False
+C0927,65.0,4.0,767.65,0,Occasional Value Customers,False
+C0928,48.0,1.0,129.0,0,Occasional Value Customers,False
+C0929,15.0,20.0,3121.45,2,Loyal Frequent Customers,False
+C0930,5.0,9.0,10151.4,1,Premium High Spenders,True
+C0931,106.0,1.0,260.0,3,Dormant At-Risk Customers,False
+C0932,127.0,1.0,525.0,3,Dormant At-Risk Customers,False
+C0933,29.0,14.0,1561.45,2,Loyal Frequent Customers,False
+C0934,31.0,7.0,5058.4,1,Premium High Spenders,True
+C0935,59.0,2.0,378.0,0,Occasional Value Customers,False
+C0936,133.0,1.0,285.0,3,Dormant At-Risk Customers,False
+C0937,11.0,21.0,4160.8,2,Loyal Frequent Customers,False
+C0938,38.0,5.0,3674.4,0,Occasional Value Customers,False
+C0939,125.0,3.0,459.5,3,Dormant At-Risk Customers,False
+C0940,22.0,9.0,8874.2,1,Premium High Spenders,True
+C0941,9.0,23.0,3866.45,2,Loyal Frequent Customers,False
+C0942,12.0,6.0,8643.6,1,Premium High Spenders,True
+C0943,48.0,1.0,89.1,0,Occasional Value Customers,False
+C0944,23.0,7.0,4795.35,1,Premium High Spenders,True
+C0945,6.0,17.0,1982.8,2,Loyal Frequent Customers,False
+C0946,22.0,2.0,261.0,0,Occasional Value Customers,False
+C0947,17.0,8.0,2787.8500000000004,0,Occasional Value Customers,False
+C0948,17.0,17.0,2977.95,2,Loyal Frequent Customers,False
+C0949,1.0,18.0,2500.6,2,Loyal Frequent Customers,False
+C0950,14.0,8.0,6788.85,1,Premium High Spenders,True
+C0951,7.0,5.0,3871.95,0,Occasional Value Customers,False
+C0952,3.0,22.0,3302.7,2,Loyal Frequent Customers,False
+C0953,0.0,17.0,3240.95,2,Loyal Frequent Customers,False
+C0954,63.0,2.0,534.0,0,Occasional Value Customers,False
+C0955,176.0,1.0,272.0,3,Dormant At-Risk Customers,False
+C0956,30.0,6.0,4567.55,1,Premium High Spenders,True
+C0957,25.0,21.0,2999.2,2,Loyal Frequent Customers,False
+C0958,164.0,1.0,416.5,3,Dormant At-Risk Customers,False
+C0959,0.0,19.0,3062.3,2,Loyal Frequent Customers,False
+C0960,23.0,8.0,1446.7,0,Occasional Value Customers,False
+C0961,70.0,3.0,483.0,3,Dormant At-Risk Customers,False
+C0962,6.0,4.0,559.8499999999999,0,Occasional Value Customers,False
+C0963,20.0,23.0,3350.2,2,Loyal Frequent Customers,False
+C0964,1.0,20.0,4320.9,2,Loyal Frequent Customers,False
+C0965,26.0,4.0,360.8,0,Occasional Value Customers,False
+C0966,6.0,21.0,4185.3,2,Loyal Frequent Customers,False
+C0967,107.0,2.0,185.1,3,Dormant At-Risk Customers,False
+C0968,0.0,19.0,2619.7,2,Loyal Frequent Customers,False
+C0969,13.0,18.0,3411.25,2,Loyal Frequent Customers,False
+C0970,27.0,2.0,510.0,0,Occasional Value Customers,False
+C0971,120.0,2.0,594.4,3,Dormant At-Risk Customers,False
+C0972,93.0,6.0,4427.5,3,Dormant At-Risk Customers,False
+C0973,1.0,21.0,4499.2,2,Loyal Frequent Customers,False
+C0974,11.0,4.0,1094.5,0,Occasional Value Customers,False
+C0975,34.0,5.0,484.55,0,Occasional Value Customers,False
+C0976,54.0,1.0,560.0,0,Occasional Value Customers,False
+C0977,33.0,5.0,5444.6,1,Premium High Spenders,True
+C0978,37.0,6.0,918.65,0,Occasional Value Customers,False
+C0979,10.0,1.0,76.8,0,Occasional Value Customers,False
+C0980,34.0,4.0,3944.0,0,Occasional Value Customers,False
+C0981,24.0,2.0,518.3,0,Occasional Value Customers,False
+C0982,172.0,1.0,18.0,3,Dormant At-Risk Customers,False
+C0983,34.0,5.0,6793.75,1,Premium High Spenders,True
+C0984,4.0,5.0,4077.25,1,Premium High Spenders,True
+C0985,46.0,4.0,338.6,0,Occasional Value Customers,False
+C0986,19.0,23.0,3360.95,2,Loyal Frequent Customers,False
+C0987,6.0,17.0,2567.95,2,Loyal Frequent Customers,False
+C0988,134.0,1.0,396.0,3,Dormant At-Risk Customers,False
+C0989,19.0,4.0,387.75,0,Occasional Value Customers,False
+C0990,8.0,26.0,4186.95,2,Loyal Frequent Customers,False
+C0991,94.0,2.0,148.05,3,Dormant At-Risk Customers,False
+C0992,86.0,3.0,614.75,3,Dormant At-Risk Customers,False
+C0993,9.0,2.0,151.2,0,Occasional Value Customers,False
+C0994,20.0,3.0,3751.6499999999996,0,Occasional Value Customers,False
+C0995,14.0,24.0,3500.4,2,Loyal Frequent Customers,False
+C0996,26.0,6.0,5134.0,1,Premium High Spenders,True
+C0997,28.0,3.0,960.9499999999999,0,Occasional Value Customers,False
+C0998,128.0,1.0,58.8,3,Dormant At-Risk Customers,False
+C0999,24.0,8.0,6428.599999999999,1,Premium High Spenders,True
+C1000,1.0,8.0,8943.2,1,Premium High Spenders,True
+C1001,35.0,5.0,963.5,0,Occasional Value Customers,False
+C1002,52.0,2.0,270.0,0,Occasional Value Customers,False
+C1003,69.0,5.0,3747.9,0,Occasional Value Customers,False
+C1004,79.0,2.0,112.80000000000001,3,Dormant At-Risk Customers,False
+C1005,33.0,2.0,888.0,0,Occasional Value Customers,False
+C1006,43.0,2.0,252.0,0,Occasional Value Customers,False
+C1007,129.0,1.0,40.0,3,Dormant At-Risk Customers,False
+C1008,15.0,7.0,6100.05,1,Premium High Spenders,True
+C1009,88.0,6.0,6931.4,1,Premium High Spenders,True
+C1010,0.0,9.0,797.5,0,Occasional Value Customers,False
+C1011,5.0,19.0,4400.8,2,Loyal Frequent Customers,False
+C1012,9.0,3.0,307.5,0,Occasional Value Customers,False
+C1013,79.0,4.0,4591.2,1,Premium High Spenders,True
+C1014,4.0,24.0,5422.5,2,Loyal Frequent Customers,False
+C1015,4.0,17.0,2968.85,2,Loyal Frequent Customers,False
+C1016,37.0,17.0,3376.05,2,Loyal Frequent Customers,False
+C1017,148.0,2.0,188.4,3,Dormant At-Risk Customers,False
+C1018,2.0,15.0,3156.9,2,Loyal Frequent Customers,False
+C1019,34.0,4.0,1398.15,0,Occasional Value Customers,False
+C1020,3.0,25.0,5031.9,2,Loyal Frequent Customers,False
+C1021,41.0,6.0,1296.0,0,Occasional Value Customers,False
+C1022,10.0,2.0,124.2,0,Occasional Value Customers,False
+C1023,0.0,20.0,3613.85,2,Loyal Frequent Customers,False
+C1024,15.0,7.0,10444.15,1,Premium High Spenders,True
+C1025,19.0,2.0,276.0,0,Occasional Value Customers,False
+C1026,83.0,1.0,72.0,3,Dormant At-Risk Customers,False
+C1027,51.0,3.0,327.3,0,Occasional Value Customers,False
+C1028,43.0,4.0,999.0,0,Occasional Value Customers,False
+C1029,45.0,7.0,711.25,0,Occasional Value Customers,False
+C1030,7.0,7.0,3565.55,0,Occasional Value Customers,False
+C1031,83.0,6.0,5778.5,1,Premium High Spenders,True
+C1032,7.0,5.0,6889.15,1,Premium High Spenders,True
+C1033,12.0,18.0,2318.35,2,Loyal Frequent Customers,False
+C1034,83.0,3.0,655.5,3,Dormant At-Risk Customers,False
+C1035,103.0,2.0,624.0,3,Dormant At-Risk Customers,False
+C1036,20.0,2.0,328.5,0,Occasional Value Customers,False
+C1037,67.0,3.0,227.0,0,Occasional Value Customers,False
+C1038,12.0,2.0,441.0,0,Occasional Value Customers,False
+C1039,11.0,7.0,4787.05,1,Premium High Spenders,True
+C1040,61.0,2.0,135.0,0,Occasional Value Customers,False
+C1042,7.0,21.0,4764.1,2,Loyal Frequent Customers,False
+C1043,4.0,16.0,3558.45,2,Loyal Frequent Customers,False
+C1044,6.0,7.0,6982.549999999999,1,Premium High Spenders,True
+C1045,47.0,5.0,2965.05,0,Occasional Value Customers,False
+C1046,24.0,2.0,173.1,0,Occasional Value Customers,False
+C1047,5.0,15.0,1651.9,2,Loyal Frequent Customers,False
+C1048,97.0,3.0,446.0,3,Dormant At-Risk Customers,False
+C1049,0.0,24.0,4396.7,2,Loyal Frequent Customers,False
+C1050,72.0,2.0,162.75,3,Dormant At-Risk Customers,False
+C1051,28.0,2.0,316.8,0,Occasional Value Customers,False
+C1053,154.0,1.0,396.0,3,Dormant At-Risk Customers,False
+C1054,110.0,1.0,43.2,3,Dormant At-Risk Customers,False
+C1055,25.0,7.0,1319.5,0,Occasional Value Customers,False
+C1056,5.0,3.0,388.0,0,Occasional Value Customers,False
+C1057,16.0,18.0,2886.35,2,Loyal Frequent Customers,False
+C1058,3.0,21.0,3951.15,2,Loyal Frequent Customers,False
+C1059,3.0,11.0,7107.35,1,Premium High Spenders,True
+C1060,8.0,16.0,2292.05,2,Loyal Frequent Customers,False
+C1061,73.0,1.0,34.8,3,Dormant At-Risk Customers,False
+C1062,20.0,6.0,1885.6999999999998,0,Occasional Value Customers,False
+C1063,4.0,15.0,1742.05,2,Loyal Frequent Customers,False
+C1064,5.0,19.0,3236.95,2,Loyal Frequent Customers,False
+C1065,135.0,2.0,103.0,3,Dormant At-Risk Customers,False
+C1066,29.0,4.0,385.3,0,Occasional Value Customers,False
+C1067,14.0,6.0,2486.2,0,Occasional Value Customers,False
+C1068,1.0,24.0,3908.95,2,Loyal Frequent Customers,False
+C1069,29.0,19.0,4652.35,2,Loyal Frequent Customers,False
+C1070,135.0,2.0,378.0,3,Dormant At-Risk Customers,False
+C1071,0.0,1.0,188.1,0,Occasional Value Customers,False
+C1072,0.0,21.0,2945.6,2,Loyal Frequent Customers,False
+C1073,14.0,3.0,420.4,0,Occasional Value Customers,False
+C1074,38.0,18.0,2098.6,2,Loyal Frequent Customers,False
+C1075,121.0,1.0,198.0,3,Dormant At-Risk Customers,False
+C1076,30.0,3.0,458.6,0,Occasional Value Customers,False
+C1077,10.0,22.0,3324.9,2,Loyal Frequent Customers,False
+C1078,23.0,4.0,1285.85,0,Occasional Value Customers,False
+C1079,8.0,22.0,4655.95,2,Loyal Frequent Customers,False
+C1080,10.0,27.0,4473.75,2,Loyal Frequent Customers,False
+C1081,44.0,7.0,6216.25,1,Premium High Spenders,True
+C1082,2.0,17.0,2687.9,2,Loyal Frequent Customers,False
+C1084,37.0,3.0,233.8,0,Occasional Value Customers,False
+C1085,11.0,5.0,7222.9,1,Premium High Spenders,True
+C1086,0.0,3.0,1605.8,0,Occasional Value Customers,False
+C1087,39.0,2.0,512.4,0,Occasional Value Customers,False
+C1088,44.0,4.0,604.5,0,Occasional Value Customers,False
+C1089,149.0,2.0,1060.5,3,Dormant At-Risk Customers,False
+C1090,47.0,4.0,2701.1,0,Occasional Value Customers,False
+C1091,3.0,12.0,1237.2,0,Occasional Value Customers,False
+C1092,19.0,3.0,760.8,0,Occasional Value Customers,False
+C1093,8.0,19.0,3138.85,2,Loyal Frequent Customers,False
+C1094,9.0,4.0,3932.8,0,Occasional Value Customers,False
+C1095,0.0,26.0,4852.6,2,Loyal Frequent Customers,False
+C1096,5.0,23.0,4024.9,2,Loyal Frequent Customers,False
+C1097,132.0,1.0,379.05,3,Dormant At-Risk Customers,False
+C1098,27.0,4.0,6644.5,1,Premium High Spenders,True
+C1099,22.0,3.0,1323.05,0,Occasional Value Customers,False
+C1100,48.0,2.0,718.0,0,Occasional Value Customers,False
+C1101,60.0,5.0,699.5,0,Occasional Value Customers,False
+C1102,8.0,8.0,7503.6,1,Premium High Spenders,True
+C1103,17.0,2.0,202.5,0,Occasional Value Customers,False
+C1104,85.0,3.0,504.6,3,Dormant At-Risk Customers,False
+C1105,14.0,1.0,260.0,0,Occasional Value Customers,False
+C1106,70.0,3.0,485.0,3,Dormant At-Risk Customers,False
+C1107,2.0,13.0,2075.0,2,Loyal Frequent Customers,False
+C1108,11.0,5.0,834.8,0,Occasional Value Customers,False
+C1109,3.0,27.0,3753.25,2,Loyal Frequent Customers,False
+C1110,0.0,21.0,4191.5,2,Loyal Frequent Customers,False
+C1112,19.0,6.0,5620.4,1,Premium High Spenders,True
+C1113,13.0,3.0,2760.45,0,Occasional Value Customers,False
+C1114,0.0,5.0,2149.7999999999997,0,Occasional Value Customers,False
+C1115,65.0,3.0,294.4,0,Occasional Value Customers,False
+C1116,20.0,3.0,352.95,0,Occasional Value Customers,False
+C1117,14.0,6.0,7042.2,1,Premium High Spenders,True
+C1118,21.0,19.0,2112.65,2,Loyal Frequent Customers,False
+C1119,6.0,19.0,3447.5,2,Loyal Frequent Customers,False
+C1120,6.0,13.0,3189.5,2,Loyal Frequent Customers,False
+C1121,24.0,4.0,770.25,0,Occasional Value Customers,False
+C1122,6.0,21.0,3164.8,2,Loyal Frequent Customers,False
+C1123,24.0,3.0,3002.1,0,Occasional Value Customers,False
+C1124,0.0,12.0,1700.8,2,Loyal Frequent Customers,False
+C1125,12.0,5.0,372.55,0,Occasional Value Customers,False
+C1126,47.0,8.0,8595.7,1,Premium High Spenders,True
+C1127,20.0,5.0,4292.5,1,Premium High Spenders,True
+C1128,7.0,1.0,126.0,0,Occasional Value Customers,False
+C1129,63.0,3.0,2902.85,0,Occasional Value Customers,False
+C1130,6.0,18.0,3919.35,2,Loyal Frequent Customers,False
+C1131,62.0,4.0,1091.8,0,Occasional Value Customers,False
+C1132,66.0,4.0,4776.9,1,Premium High Spenders,True
+C1133,19.0,18.0,3068.0,2,Loyal Frequent Customers,False
+C1134,16.0,20.0,4973.85,2,Loyal Frequent Customers,False
+C1135,7.0,18.0,3371.35,2,Loyal Frequent Customers,False
+C1136,59.0,6.0,9650.25,1,Premium High Spenders,True
+C1137,19.0,18.0,3775.9,2,Loyal Frequent Customers,False
+C1138,65.0,2.0,342.0,0,Occasional Value Customers,False
+C1139,16.0,29.0,5139.25,2,Loyal Frequent Customers,False
+C1140,18.0,23.0,4223.15,2,Loyal Frequent Customers,False
+C1141,21.0,20.0,3163.9,2,Loyal Frequent Customers,False
+C1142,4.0,20.0,5120.95,2,Loyal Frequent Customers,False
+C1143,12.0,13.0,2253.4,2,Loyal Frequent Customers,False
+C1144,110.0,1.0,71.25,3,Dormant At-Risk Customers,False
+C1145,44.0,22.0,2527.45,2,Loyal Frequent Customers,False
+C1146,46.0,6.0,9082.65,1,Premium High Spenders,True
+C1147,19.0,9.0,10156.9,1,Premium High Spenders,True
+C1148,7.0,5.0,3155.45,0,Occasional Value Customers,False
+C1149,84.0,2.0,161.4,3,Dormant At-Risk Customers,False
+C1150,6.0,20.0,2392.8,2,Loyal Frequent Customers,False
+C1151,30.0,21.0,2647.5,2,Loyal Frequent Customers,False
+C1152,2.0,21.0,2922.55,2,Loyal Frequent Customers,False
+C1153,17.0,4.0,2490.9,0,Occasional Value Customers,False
+C1154,94.0,3.0,477.2,3,Dormant At-Risk Customers,False
+C1155,0.0,21.0,4456.75,2,Loyal Frequent Customers,False
+C1156,21.0,4.0,5894.6,1,Premium High Spenders,True
+C1157,39.0,3.0,2132.2,0,Occasional Value Customers,False
+C1158,65.0,1.0,33.6,0,Occasional Value Customers,False
+C1159,94.0,1.0,108.0,3,Dormant At-Risk Customers,False
+C1160,2.0,1.0,51.0,0,Occasional Value Customers,False
+C1161,31.0,3.0,374.0,0,Occasional Value Customers,False
+C1162,18.0,1.0,183.75,0,Occasional Value Customers,False
+C1163,85.0,3.0,664.05,3,Dormant At-Risk Customers,False
+C1164,9.0,14.0,2185.9,2,Loyal Frequent Customers,False
+C1166,1.0,19.0,2158.8,2,Loyal Frequent Customers,False
+C1167,5.0,23.0,2263.3,2,Loyal Frequent Customers,False
+C1168,36.0,3.0,488.6,0,Occasional Value Customers,False
+C1169,43.0,2.0,496.0,0,Occasional Value Customers,False
+C1170,155.0,3.0,393.0,3,Dormant At-Risk Customers,False
+C1171,38.0,11.0,6575.55,1,Premium High Spenders,True
+C1172,11.0,16.0,2847.6,2,Loyal Frequent Customers,False
+C1173,46.0,4.0,350.75,0,Occasional Value Customers,False
+C1174,38.0,13.0,1816.9,0,Occasional Value Customers,False
+C1175,7.0,22.0,4868.95,2,Loyal Frequent Customers,False
+C1176,36.0,4.0,762.5,0,Occasional Value Customers,False
+C1177,73.0,2.0,404.0,3,Dormant At-Risk Customers,False
+C1178,67.0,3.0,370.5,0,Occasional Value Customers,False
+C1179,24.0,2.0,157.75,0,Occasional Value Customers,False
+C1180,109.0,1.0,44.8,3,Dormant At-Risk Customers,False
+C1181,14.0,6.0,7094.0,1,Premium High Spenders,True
+C1182,24.0,5.0,1228.5,0,Occasional Value Customers,False
+C1183,98.0,2.0,4447.25,3,Dormant At-Risk Customers,False
+C1184,89.0,2.0,143.6,3,Dormant At-Risk Customers,False
+C1185,0.0,21.0,3594.3,2,Loyal Frequent Customers,False
+C1186,17.0,3.0,601.0,0,Occasional Value Customers,False
+C1187,27.0,3.0,347.0,0,Occasional Value Customers,False
+C1188,26.0,6.0,2202.45,0,Occasional Value Customers,False
+C1190,5.0,21.0,2453.1,2,Loyal Frequent Customers,False
+C1191,2.0,24.0,4570.0,2,Loyal Frequent Customers,False
+C1192,8.0,4.0,252.9,0,Occasional Value Customers,False
+C1193,2.0,1.0,20.0,0,Occasional Value Customers,False
+C1194,75.0,3.0,461.5,3,Dormant At-Risk Customers,False
+C1195,0.0,15.0,2485.85,2,Loyal Frequent Customers,False
+C1196,104.0,3.0,339.0,3,Dormant At-Risk Customers,False
+C1197,4.0,23.0,3397.15,2,Loyal Frequent Customers,False
+C1198,3.0,18.0,2803.2,2,Loyal Frequent Customers,False
+C1199,16.0,4.0,3861.8500000000004,0,Occasional Value Customers,False
+C1200,2.0,22.0,3559.1,2,Loyal Frequent Customers,False
